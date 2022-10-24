@@ -1,2 +1,0 @@
-steganography
-checksum_v1 = 5edb60c2a4d8d72f9a9f3f550941d546
