@@ -1,0 +1,998 @@
+[2022-09-10 12:45:33.318] [warn]  [Motrix] Logger init
+[2022-09-10 12:45:34.111] [warn]  [Motrix] UPnPManager map 26701 failed, error:  Error: UPnP port mapping failed
+    at /opt/Motrix/resources/app.asar/node_modules/@motrix/nat-api/index.js:226:25
+    at /opt/Motrix/resources/app.asar/node_modules/@motrix/nat-api/index.js:327:16
+    at Request._callback (/opt/Motrix/resources/app.asar/node_modules/@motrix/nat-api/lib/upnp/device.js:46:25)
+    at self.callback (/opt/Motrix/resources/app.asar/node_modules/request/request.js:185:22)
+    at Request.emit (events.js:315:20)
+    at Request.onRequestError (/opt/Motrix/resources/app.asar/node_modules/request/request.js:877:8)
+    at ClientRequest.emit (events.js:315:20)
+    at Socket.socketOnEnd (_http_client.js:453:9)
+    at Socket.emit (events.js:327:22)
+    at endReadableNT (_stream_readable.js:1220:12)
+[2022-09-10 12:45:34.112] [warn]  [Motrix] UPnPManager map 21301 failed, error:  Error: UPnP port mapping failed
+    at /opt/Motrix/resources/app.asar/node_modules/@motrix/nat-api/index.js:226:25
+    at /opt/Motrix/resources/app.asar/node_modules/@motrix/nat-api/index.js:327:16
+    at Request._callback (/opt/Motrix/resources/app.asar/node_modules/@motrix/nat-api/lib/upnp/device.js:46:25)
+    at self.callback (/opt/Motrix/resources/app.asar/node_modules/request/request.js:185:22)
+    at Request.emit (events.js:315:20)
+    at Request.onRequestError (/opt/Motrix/resources/app.asar/node_modules/request/request.js:877:8)
+    at ClientRequest.emit (events.js:315:20)
+    at Socket.socketOnEnd (_http_client.js:453:9)
+    at Socket.emit (events.js:327:22)
+    at endReadableNT (_stream_readable.js:1220:12)
+[2022-09-10 12:45:39.554] [warn]  [Motrix] auto sync tracker data: [
+  'udp://93.158.213.92:1337/announce\n' +
+    '\n' +
+    'udp://151.80.120.114:2810/announce\n' +
+    '\n' +
+    'udp://45.154.253.9:6969/announce\n' +
+    '\n' +
+    'udp://184.105.151.166:6969/announce\n' +
+    '\n' +
+    'udp://208.83.20.20:6969/announce\n' +
+    '\n' +
+    'udp://149.28.47.87:1738/announce\n' +
+    '\n' +
+    'udp://156.234.201.18:80/announce\n' +
+    '\n' +
+    'udp://209.141.59.16:6969/announce\n' +
+    '\n' +
+    'udp://194.53.137.231:6969/announce\n' +
+    '\n' +
+    'udp://65.108.63.133:80/announce\n' +
+    '\n' +
+    'udp://93.104.214.40:6969/announce\n' +
+    '\n' +
+    'udp://107.189.11.230:6969/announce\n' +
+    '\n' +
+    'udp://217.30.10.18:6969/announce\n' +
+    '\n' +
+    'udp://185.134.22.3:6969/announce\n' +
+    '\n',
+  'udp://tracker.opentrackr.org:1337/announce\n' +
+    '\n' +
+    'udp://9.rarbg.com:2810/announce\n' +
+    '\n' +
+    'udp://tracker.openbittorrent.com:6969/announce\n' +
+    '\n' +
+    'http://tracker.openbittorrent.com:80/announce\n' +
+    '\n' +
+    'https://opentracker.i2p.rocks:443/announce\n' +
+    '\n' +
+    'udp://tracker.torrent.eu.org:451/announce\n' +
+    '\n' +
+    'udp://open.stealth.si:80/announce\n' +
+    '\n' +
+    'udp://explodie.org:6969/announce\n' +
+    '\n' +
+    'udp://exodus.desync.com:6969/announce\n' +
+    '\n' +
+    'udp://vibe.sleepyinternetfun.xyz:1738/announce\n' +
+    '\n' +
+    'udp://tracker1.bt.moack.co.kr:80/announce\n' +
+    '\n' +
+    'udp://tracker.zemoj.com:6969/announce\n' +
+    '\n' +
+    'udp://tracker.tiny-vps.com:6969/announce\n' +
+    '\n' +
+    'udp://tracker.theoks.net:6969/announce\n' +
+    '\n' +
+    'udp://tracker.publictracker.xyz:6969/announce\n' +
+    '\n' +
+    'udp://tracker.pomf.se:80/announce\n' +
+    '\n' +
+    'udp://tracker.monitorit4.me:6969/announce\n' +
+    '\n' +
+    'udp://tracker.moeking.me:6969/announce\n' +
+    '\n' +
+    'udp://tracker.dler.org:6969/announce\n' +
+    '\n' +
+    'udp://tracker.altrosky.nl:6969/announce\n' +
+    '\n'
+]
+[2022-09-12 13:57:36.333] [warn]  [Motrix] Logger init
+[2022-09-12 13:57:37.402] [warn]  [Motrix] auto sync tracker data: [
+  'udp://93.158.213.92:1337/announce\n' +
+    '\n' +
+    'udp://151.80.120.115:2810/announce\n' +
+    '\n' +
+    'udp://45.154.253.7:6969/announce\n' +
+    '\n' +
+    'http://45.154.253.7:80/announce\n' +
+    '\n' +
+    'udp://91.216.110.52:451/announce\n' +
+    '\n' +
+    'udp://185.181.60.155:80/announce\n' +
+    '\n' +
+    'udp://208.83.20.20:6969/announce\n' +
+    '\n' +
+    'udp://65.108.63.133:80/announce\n' +
+    '\n' +
+    'udp://107.189.11.230:6969/announce\n' +
+    '\n' +
+    'udp://211.20.122.47:6969/announce\n' +
+    '\n' +
+    'udp://216.146.25.92:1337/announce\n' +
+    '\n' +
+    'udp://119.28.71.45:8080/announce\n' +
+    '\n' +
+    'udp://207.241.226.111:6969/announce\n' +
+    '\n' +
+    'udp://35.227.12.84:6969/announce\n' +
+    '\n' +
+    'http://156.234.201.18:80/announce\n' +
+    '\n',
+  'udp://tracker.opentrackr.org:1337/announce\n' +
+    '\n' +
+    'udp://9.rarbg.com:2810/announce\n' +
+    '\n' +
+    'udp://tracker.openbittorrent.com:6969/announce\n' +
+    '\n' +
+    'http://tracker.openbittorrent.com:80/announce\n' +
+    '\n' +
+    'https://opentracker.i2p.rocks:443/announce\n' +
+    '\n' +
+    'udp://tracker.torrent.eu.org:451/announce\n' +
+    '\n' +
+    'udp://exodus.desync.com:6969/announce\n' +
+    '\n' +
+    'udp://tracker.moeking.me:6969/announce\n' +
+    '\n' +
+    'udp://tracker.dler.org:6969/announce\n' +
+    '\n' +
+    'udp://open.demonii.com:1337/announce\n' +
+    '\n' +
+    'udp://explodie.org:6969/announce\n' +
+    '\n' +
+    'udp://chouchou.top:8080/announce\n' +
+    '\n' +
+    'https://tracker.nanoha.org:443/announce\n' +
+    '\n' +
+    'https://tracker.lilithraws.org:443/announce\n' +
+    '\n' +
+    'http://vps02.net.orel.ru:80/announce\n' +
+    '\n' +
+    'http://tracker3.ctix.cn:8080/announce\n' +
+    '\n' +
+    'http://tracker.mywaifu.best:6969/announce\n' +
+    '\n' +
+    'http://tracker.edkj.club:6969/announce\n' +
+    '\n' +
+    'udp://zecircle.xyz:6969/announce\n' +
+    '\n' +
+    'udp://yahor.ftp.sh:6969/announce\n' +
+    '\n'
+]
+[2022-09-12 13:57:38.455] [warn]  [Motrix] UPnPManager map 21301 failed, error:  Error: UPnP port mapping failed
+    at /opt/Motrix/resources/app.asar/node_modules/@motrix/nat-api/index.js:226:25
+    at /opt/Motrix/resources/app.asar/node_modules/@motrix/nat-api/index.js:327:16
+    at /opt/Motrix/resources/app.asar/node_modules/@motrix/nat-api/lib/upnp/index.js:24:23
+    at Timeout._onTimeout (/opt/Motrix/resources/app.asar/node_modules/@motrix/nat-api/lib/upnp/index.js:193:7)
+    at listOnTimeout (internal/timers.js:549:17)
+    at processTimers (internal/timers.js:492:7)
+[2022-09-12 13:57:38.456] [warn]  [Motrix] UPnPManager map 26701 failed, error:  Error: UPnP port mapping failed
+    at /opt/Motrix/resources/app.asar/node_modules/@motrix/nat-api/index.js:226:25
+    at /opt/Motrix/resources/app.asar/node_modules/@motrix/nat-api/index.js:327:16
+    at /opt/Motrix/resources/app.asar/node_modules/@motrix/nat-api/lib/upnp/index.js:24:23
+    at Timeout._onTimeout (/opt/Motrix/resources/app.asar/node_modules/@motrix/nat-api/lib/upnp/index.js:193:7)
+    at listOnTimeout (internal/timers.js:549:17)
+    at processTimers (internal/timers.js:492:7)
+[2022-09-12 21:25:59.846] [warn]  [Motrix] call client fail: request to http://127.0.0.1:16800/jsonrpc failed, reason: connect ECONNREFUSED 127.0.0.1:16800
+[2022-09-13 19:52:00.985] [warn]  [Motrix] Logger init
+[2022-09-13 19:52:01.798] [warn]  [Motrix] UPnPManager map 26701 failed, error:  Error: UPnP port mapping failed
+    at /opt/Motrix/resources/app.asar/node_modules/@motrix/nat-api/index.js:226:25
+    at /opt/Motrix/resources/app.asar/node_modules/@motrix/nat-api/index.js:327:16
+    at Request._callback (/opt/Motrix/resources/app.asar/node_modules/@motrix/nat-api/lib/upnp/device.js:46:25)
+    at self.callback (/opt/Motrix/resources/app.asar/node_modules/request/request.js:185:22)
+    at Request.emit (events.js:315:20)
+    at Request.onRequestError (/opt/Motrix/resources/app.asar/node_modules/request/request.js:877:8)
+    at ClientRequest.emit (events.js:315:20)
+    at Socket.socketOnEnd (_http_client.js:453:9)
+    at Socket.emit (events.js:327:22)
+    at endReadableNT (_stream_readable.js:1220:12)
+[2022-09-13 19:52:01.800] [warn]  [Motrix] UPnPManager map 21301 failed, error:  Error: UPnP port mapping failed
+    at /opt/Motrix/resources/app.asar/node_modules/@motrix/nat-api/index.js:226:25
+    at /opt/Motrix/resources/app.asar/node_modules/@motrix/nat-api/index.js:327:16
+    at Request._callback (/opt/Motrix/resources/app.asar/node_modules/@motrix/nat-api/lib/upnp/device.js:46:25)
+    at self.callback (/opt/Motrix/resources/app.asar/node_modules/request/request.js:185:22)
+    at Request.emit (events.js:315:20)
+    at Request.onRequestError (/opt/Motrix/resources/app.asar/node_modules/request/request.js:877:8)
+    at ClientRequest.emit (events.js:315:20)
+    at Socket.socketOnEnd (_http_client.js:453:9)
+    at Socket.emit (events.js:327:22)
+    at endReadableNT (_stream_readable.js:1220:12)
+[2022-09-13 19:52:07.266] [warn]  [Motrix] auto sync tracker data: [
+  'udp://93.158.213.92:1337/announce\n' +
+    '\n' +
+    'udp://151.80.120.113:2810/announce\n' +
+    '\n' +
+    'udp://45.154.253.8:6969/announce\n' +
+    '\n' +
+    'udp://89.234.156.205:451/announce\n' +
+    '\n' +
+    'udp://107.189.11.230:6969/announce\n' +
+    '\n' +
+    'udp://185.70.187.79:6969/announce\n' +
+    '\n' +
+    'udp://216.146.25.92:1337/announce\n' +
+    '\n' +
+    'udp://184.105.151.166:6969/announce\n' +
+    '\n' +
+    'udp://208.83.20.20:6969/announce\n' +
+    '\n' +
+    'udp://119.28.71.45:8080/announce\n' +
+    '\n' +
+    'udp://35.227.12.84:6969/announce\n' +
+    '\n' +
+    'http://156.234.201.18:80/announce\n' +
+    '\n' +
+    'http://35.227.12.84:2710/announce\n' +
+    '\n',
+  'udp://tracker.opentrackr.org:1337/announce\n' +
+    '\n' +
+    'udp://9.rarbg.com:2810/announce\n' +
+    '\n' +
+    'udp://tracker.openbittorrent.com:6969/announce\n' +
+    '\n' +
+    'http://tracker.openbittorrent.com:80/announce\n' +
+    '\n' +
+    'https://opentracker.i2p.rocks:443/announce\n' +
+    '\n' +
+    'udp://tracker.torrent.eu.org:451/announce\n' +
+    '\n' +
+    'udp://open.stealth.si:80/announce\n' +
+    '\n' +
+    'udp://tracker.moeking.me:6969/announce\n' +
+    '\n' +
+    'udp://tracker.dler.org:6969/announce\n' +
+    '\n' +
+    'udp://open.demonii.com:1337/announce\n' +
+    '\n' +
+    'udp://explodie.org:6969/announce\n' +
+    '\n' +
+    'udp://exodus.desync.com:6969/announce\n' +
+    '\n' +
+    'udp://chouchou.top:8080/announce\n' +
+    '\n' +
+    'udp://bt.oiyo.tk:6969/announce\n' +
+    '\n' +
+    'https://tracker1.520.jp:443/announce\n' +
+    '\n' +
+    'https://tracker.nanoha.org:443/announce\n' +
+    '\n' +
+    'https://tracker.lilithraws.org:443/announce\n' +
+    '\n' +
+    'http://tracker3.ctix.cn:8080/announce\n' +
+    '\n' +
+    'http://tracker1.bt.moack.co.kr:80/announce\n' +
+    '\n' +
+    'http://tracker.nucozer-tracker.ml:2710/announce\n' +
+    '\n'
+]
+[2022-09-13 20:21:13.469] [warn]  [Motrix] Logger init
+[2022-09-13 20:23:02.929] [warn]  [Motrix] Logger init
+[2022-09-13 20:24:52.185] [warn]  [Motrix] Logger init
+[2022-09-13 22:05:17.670] [warn]  [Motrix] Logger init
+[2022-09-13 22:05:18.353] [warn]  [Motrix] UPnPManager map 26701 failed, error:  Error: UPnP port mapping failed
+    at /opt/Motrix/resources/app.asar/node_modules/@motrix/nat-api/index.js:226:25
+    at /opt/Motrix/resources/app.asar/node_modules/@motrix/nat-api/index.js:327:16
+    at Request._callback (/opt/Motrix/resources/app.asar/node_modules/@motrix/nat-api/lib/upnp/device.js:46:25)
+    at self.callback (/opt/Motrix/resources/app.asar/node_modules/request/request.js:185:22)
+    at Request.emit (events.js:315:20)
+    at Request.onRequestError (/opt/Motrix/resources/app.asar/node_modules/request/request.js:877:8)
+    at ClientRequest.emit (events.js:315:20)
+    at Socket.socketOnEnd (_http_client.js:453:9)
+    at Socket.emit (events.js:327:22)
+    at endReadableNT (_stream_readable.js:1220:12)
+[2022-09-13 22:05:18.354] [warn]  [Motrix] UPnPManager map 21301 failed, error:  Error: UPnP port mapping failed
+    at /opt/Motrix/resources/app.asar/node_modules/@motrix/nat-api/index.js:226:25
+    at /opt/Motrix/resources/app.asar/node_modules/@motrix/nat-api/index.js:327:16
+    at Request._callback (/opt/Motrix/resources/app.asar/node_modules/@motrix/nat-api/lib/upnp/device.js:46:25)
+    at self.callback (/opt/Motrix/resources/app.asar/node_modules/request/request.js:185:22)
+    at Request.emit (events.js:315:20)
+    at Request.onRequestError (/opt/Motrix/resources/app.asar/node_modules/request/request.js:877:8)
+    at ClientRequest.emit (events.js:315:20)
+    at Socket.socketOnEnd (_http_client.js:453:9)
+    at Socket.emit (events.js:327:22)
+    at endReadableNT (_stream_readable.js:1220:12)
+[2022-09-13 22:07:04.644] [warn]  [Motrix] Logger init
+[2022-09-13 22:07:05.338] [warn]  [Motrix] UPnPManager map 26701 failed, error:  Error: UPnP port mapping failed
+    at /opt/Motrix/resources/app.asar/node_modules/@motrix/nat-api/index.js:226:25
+    at /opt/Motrix/resources/app.asar/node_modules/@motrix/nat-api/index.js:327:16
+    at Request._callback (/opt/Motrix/resources/app.asar/node_modules/@motrix/nat-api/lib/upnp/device.js:46:25)
+    at self.callback (/opt/Motrix/resources/app.asar/node_modules/request/request.js:185:22)
+    at Request.emit (events.js:315:20)
+    at Request.onRequestError (/opt/Motrix/resources/app.asar/node_modules/request/request.js:877:8)
+    at ClientRequest.emit (events.js:315:20)
+    at Socket.socketOnEnd (_http_client.js:453:9)
+    at Socket.emit (events.js:327:22)
+    at endReadableNT (_stream_readable.js:1220:12)
+[2022-09-14 09:14:40.227] [warn]  [Motrix] Logger init
+[2022-09-14 09:14:41.651] [warn]  [Motrix] auto sync tracker data: [
+  'udp://93.158.213.92:1337/announce\n' +
+    '\n' +
+    'udp://151.80.120.114:2810/announce\n' +
+    '\n' +
+    'udp://45.154.253.7:6969/announce\n' +
+    '\n' +
+    'udp://89.234.156.205:451/announce\n' +
+    '\n' +
+    'udp://185.181.60.155:80/announce\n' +
+    '\n' +
+    'udp://208.83.20.20:6969/announce\n' +
+    '\n' +
+    'udp://89.237.1.42:6969/announce\n' +
+    '\n' +
+    'udp://107.189.11.230:6969/announce\n' +
+    '\n' +
+    'udp://185.185.40.95:6969/announce\n' +
+    '\n' +
+    'udp://216.146.25.92:1337/announce\n' +
+    '\n' +
+    'udp://184.105.151.166:6969/announce\n' +
+    '\n' +
+    'udp://119.28.71.45:8080/announce\n' +
+    '\n' +
+    'http://185.216.178.49:6969/announce\n' +
+    '\n' +
+    'http://95.217.167.10:6969/announce\n' +
+    '\n' +
+    'http://141.144.224.250:6969/announce\n' +
+    '\n',
+  'udp://tracker.opentrackr.org:1337/announce\n' +
+    '\n' +
+    'udp://9.rarbg.com:2810/announce\n' +
+    '\n' +
+    'udp://tracker.openbittorrent.com:6969/announce\n' +
+    '\n' +
+    'https://opentracker.i2p.rocks:443/announce\n' +
+    '\n' +
+    'http://tracker.openbittorrent.com:80/announce\n' +
+    '\n' +
+    'udp://tracker.torrent.eu.org:451/announce\n' +
+    '\n' +
+    'udp://open.stealth.si:80/announce\n' +
+    '\n' +
+    'udp://exodus.desync.com:6969/announce\n' +
+    '\n' +
+    'udp://tracker.tiny-vps.com:6969/announce\n' +
+    '\n' +
+    'udp://tracker.moeking.me:6969/announce\n' +
+    '\n' +
+    'udp://tracker.dler.org:6969/announce\n' +
+    '\n' +
+    'udp://open.demonii.com:1337/announce\n' +
+    '\n' +
+    'udp://explodie.org:6969/announce\n' +
+    '\n' +
+    'udp://chouchou.top:8080/announce\n' +
+    '\n' +
+    'https://tracker.nanoha.org:443/announce\n' +
+    '\n' +
+    'https://tracker.lilithraws.org:443/announce\n' +
+    '\n' +
+    'http://widemus.de:6969/announce\n' +
+    '\n' +
+    'http://tracker3.ctix.cn:8080/announce\n' +
+    '\n' +
+    'http://tracker.mywaifu.best:6969/announce\n' +
+    '\n' +
+    'http://tracker.edkj.club:6969/announce\n' +
+    '\n'
+]
+[2022-09-14 09:14:42.499] [warn]  [Motrix] UPnPManager map 21301 failed, error:  Error: UPnP port mapping failed
+    at /opt/Motrix/resources/app.asar/node_modules/@motrix/nat-api/index.js:226:25
+    at /opt/Motrix/resources/app.asar/node_modules/@motrix/nat-api/index.js:327:16
+    at /opt/Motrix/resources/app.asar/node_modules/@motrix/nat-api/lib/upnp/index.js:24:23
+    at Timeout._onTimeout (/opt/Motrix/resources/app.asar/node_modules/@motrix/nat-api/lib/upnp/index.js:193:7)
+    at listOnTimeout (internal/timers.js:549:17)
+    at processTimers (internal/timers.js:492:7)
+[2022-09-14 09:14:42.500] [warn]  [Motrix] UPnPManager map 26701 failed, error:  Error: UPnP port mapping failed
+    at /opt/Motrix/resources/app.asar/node_modules/@motrix/nat-api/index.js:226:25
+    at /opt/Motrix/resources/app.asar/node_modules/@motrix/nat-api/index.js:327:16
+    at /opt/Motrix/resources/app.asar/node_modules/@motrix/nat-api/lib/upnp/index.js:24:23
+    at Timeout._onTimeout (/opt/Motrix/resources/app.asar/node_modules/@motrix/nat-api/lib/upnp/index.js:193:7)
+    at listOnTimeout (internal/timers.js:549:17)
+    at processTimers (internal/timers.js:492:7)
+[2022-09-14 09:18:56.598] [warn]  [Motrix] Logger init
+[2022-09-14 09:21:38.739] [warn]  [Motrix] Logger init
+[2022-09-14 09:21:40.785] [warn]  [Motrix] UPnPManager map 21301 failed, error:  Error: UPnP port mapping failed
+    at /opt/Motrix/resources/app.asar/node_modules/@motrix/nat-api/index.js:226:25
+    at /opt/Motrix/resources/app.asar/node_modules/@motrix/nat-api/index.js:327:16
+    at /opt/Motrix/resources/app.asar/node_modules/@motrix/nat-api/lib/upnp/index.js:24:23
+    at Timeout._onTimeout (/opt/Motrix/resources/app.asar/node_modules/@motrix/nat-api/lib/upnp/index.js:193:7)
+    at listOnTimeout (internal/timers.js:549:17)
+    at processTimers (internal/timers.js:492:7)
+[2022-09-14 09:21:40.787] [warn]  [Motrix] UPnPManager map 26701 failed, error:  Error: UPnP port mapping failed
+    at /opt/Motrix/resources/app.asar/node_modules/@motrix/nat-api/index.js:226:25
+    at /opt/Motrix/resources/app.asar/node_modules/@motrix/nat-api/index.js:327:16
+    at /opt/Motrix/resources/app.asar/node_modules/@motrix/nat-api/lib/upnp/index.js:24:23
+    at Timeout._onTimeout (/opt/Motrix/resources/app.asar/node_modules/@motrix/nat-api/lib/upnp/index.js:193:7)
+    at listOnTimeout (internal/timers.js:549:17)
+    at processTimers (internal/timers.js:492:7)
+[2022-09-14 09:25:08.588] [warn]  [Motrix] Logger init
+[2022-09-14 09:25:22.142] [warn]  [Motrix] Logger init
+[2022-09-14 09:25:24.227] [warn]  [Motrix] UPnPManager map 21301 failed, error:  Error: UPnP port mapping failed
+    at /opt/Motrix/resources/app.asar/node_modules/@motrix/nat-api/index.js:226:25
+    at /opt/Motrix/resources/app.asar/node_modules/@motrix/nat-api/index.js:327:16
+    at /opt/Motrix/resources/app.asar/node_modules/@motrix/nat-api/lib/upnp/index.js:24:23
+    at Timeout._onTimeout (/opt/Motrix/resources/app.asar/node_modules/@motrix/nat-api/lib/upnp/index.js:193:7)
+    at listOnTimeout (internal/timers.js:549:17)
+    at processTimers (internal/timers.js:492:7)
+[2022-09-14 09:25:24.228] [warn]  [Motrix] UPnPManager map 26701 failed, error:  Error: UPnP port mapping failed
+    at /opt/Motrix/resources/app.asar/node_modules/@motrix/nat-api/index.js:226:25
+    at /opt/Motrix/resources/app.asar/node_modules/@motrix/nat-api/index.js:327:16
+    at /opt/Motrix/resources/app.asar/node_modules/@motrix/nat-api/lib/upnp/index.js:24:23
+    at Timeout._onTimeout (/opt/Motrix/resources/app.asar/node_modules/@motrix/nat-api/lib/upnp/index.js:193:7)
+    at listOnTimeout (internal/timers.js:549:17)
+    at processTimers (internal/timers.js:492:7)
+[2022-09-14 09:25:24.920] [warn]  [Motrix] Logger init
+[2022-09-14 10:25:00.655] [warn]  [Motrix] call client fail: request to http://127.0.0.1:16800/jsonrpc failed, reason: connect ECONNREFUSED 127.0.0.1:16800
+[2022-09-16 09:44:39.511] [warn]  [Motrix] Logger init
+[2022-09-16 09:44:40.273] [warn]  [Motrix] UPnPManager map 26701 failed, error:  Error: UPnP port mapping failed
+    at /opt/Motrix/resources/app.asar/node_modules/@motrix/nat-api/index.js:226:25
+    at /opt/Motrix/resources/app.asar/node_modules/@motrix/nat-api/index.js:327:16
+    at Request._callback (/opt/Motrix/resources/app.asar/node_modules/@motrix/nat-api/lib/upnp/device.js:46:25)
+    at self.callback (/opt/Motrix/resources/app.asar/node_modules/request/request.js:185:22)
+    at Request.emit (events.js:315:20)
+    at Request.onRequestError (/opt/Motrix/resources/app.asar/node_modules/request/request.js:877:8)
+    at ClientRequest.emit (events.js:315:20)
+    at Socket.socketOnEnd (_http_client.js:453:9)
+    at Socket.emit (events.js:327:22)
+    at endReadableNT (_stream_readable.js:1220:12)
+[2022-09-16 09:44:40.275] [warn]  [Motrix] UPnPManager map 21301 failed, error:  Error: UPnP port mapping failed
+    at /opt/Motrix/resources/app.asar/node_modules/@motrix/nat-api/index.js:226:25
+    at /opt/Motrix/resources/app.asar/node_modules/@motrix/nat-api/index.js:327:16
+    at Request._callback (/opt/Motrix/resources/app.asar/node_modules/@motrix/nat-api/lib/upnp/device.js:46:25)
+    at self.callback (/opt/Motrix/resources/app.asar/node_modules/request/request.js:185:22)
+    at Request.emit (events.js:315:20)
+    at Request.onRequestError (/opt/Motrix/resources/app.asar/node_modules/request/request.js:877:8)
+    at ClientRequest.emit (events.js:315:20)
+    at Socket.socketOnEnd (_http_client.js:453:9)
+    at Socket.emit (events.js:327:22)
+    at endReadableNT (_stream_readable.js:1220:12)
+[2022-09-16 09:44:41.472] [warn]  [Motrix] auto sync tracker data: [
+  'udp://93.158.213.92:1337/announce\n' +
+    '\n' +
+    'udp://151.80.120.113:2810/announce\n' +
+    '\n' +
+    'udp://45.154.253.4:6969/announce\n' +
+    '\n' +
+    'http://45.154.253.4:80/announce\n' +
+    '\n' +
+    'udp://185.181.60.155:80/announce\n' +
+    '\n' +
+    'udp://89.237.1.42:6969/announce\n' +
+    '\n' +
+    'udp://65.108.63.133:80/announce\n' +
+    '\n' +
+    'udp://211.20.122.47:6969/announce\n' +
+    '\n' +
+    'udp://216.146.25.92:1337/announce\n' +
+    '\n' +
+    'udp://184.105.151.166:6969/announce\n' +
+    '\n' +
+    'udp://208.83.20.20:6969/announce\n' +
+    '\n' +
+    'http://95.217.167.10:6969/announce\n' +
+    '\n' +
+    'http://209.209.112.121:2710/announce\n' +
+    '\n' +
+    'udp://65.21.91.32:6969/announce\n' +
+    '\n' +
+    'udp://86.57.161.157:6969/announce\n' +
+    '\n',
+  'udp://tracker.opentrackr.org:1337/announce\n' +
+    '\n' +
+    'udp://9.rarbg.com:2810/announce\n' +
+    '\n' +
+    'udp://tracker.openbittorrent.com:6969/announce\n' +
+    '\n' +
+    'http://tracker.openbittorrent.com:80/announce\n' +
+    '\n' +
+    'https://opentracker.i2p.rocks:443/announce\n' +
+    '\n' +
+    'udp://open.stealth.si:80/announce\n' +
+    '\n' +
+    'udp://tracker.torrent.eu.org:451/announce\n' +
+    '\n' +
+    'udp://tracker.tiny-vps.com:6969/announce\n' +
+    '\n' +
+    'udp://tracker.pomf.se:80/announce\n' +
+    '\n' +
+    'udp://tracker.dler.org:6969/announce\n' +
+    '\n' +
+    'udp://open.demonii.com:1337/announce\n' +
+    '\n' +
+    'udp://explodie.org:6969/announce\n' +
+    '\n' +
+    'udp://exodus.desync.com:6969/announce\n' +
+    '\n' +
+    'https://tracker.nanoha.org:443/announce\n' +
+    '\n' +
+    'https://tracker.lilithraws.org:443/announce\n' +
+    '\n' +
+    'https://tr.burnabyhighstar.com:443/announce\n' +
+    '\n' +
+    'http://tracker.mywaifu.best:6969/announce\n' +
+    '\n' +
+    'http://bt.okmp3.ru:2710/announce\n' +
+    '\n' +
+    'udp://zecircle.xyz:6969/announce\n' +
+    '\n' +
+    'udp://yahor.ftp.sh:6969/announce\n' +
+    '\n'
+]
+[2022-09-16 09:54:07.678] [warn]  [Motrix] Logger init
+[2022-09-16 09:55:52.783] [warn]  [Motrix] Logger init
+[2022-09-16 09:56:11.669] [warn]  [Motrix] Logger init
+[2022-09-16 10:07:53.412] [warn]  [Motrix] Logger init
+[2022-09-16 11:32:00.153] [warn]  [Motrix] Logger init
+[2022-09-16 11:32:22.786] [warn]  [Motrix] Logger init
+[2022-09-23 15:52:51.079] [warn]  [Motrix] Logger init
+[2022-09-23 15:52:51.820] [warn]  [Motrix] UPnPManager map 21301 failed, error:  Error: UPnP port mapping failed
+    at /opt/Motrix/resources/app.asar/node_modules/@motrix/nat-api/index.js:226:25
+    at /opt/Motrix/resources/app.asar/node_modules/@motrix/nat-api/index.js:327:16
+    at Request._callback (/opt/Motrix/resources/app.asar/node_modules/@motrix/nat-api/lib/upnp/device.js:46:25)
+    at self.callback (/opt/Motrix/resources/app.asar/node_modules/request/request.js:185:22)
+    at Request.emit (events.js:315:20)
+    at Request.onRequestError (/opt/Motrix/resources/app.asar/node_modules/request/request.js:877:8)
+    at ClientRequest.emit (events.js:315:20)
+    at Socket.socketOnEnd (_http_client.js:453:9)
+    at Socket.emit (events.js:327:22)
+    at endReadableNT (_stream_readable.js:1220:12)
+[2022-09-23 15:52:51.821] [warn]  [Motrix] UPnPManager map 26701 failed, error:  Error: UPnP port mapping failed
+    at /opt/Motrix/resources/app.asar/node_modules/@motrix/nat-api/index.js:226:25
+    at /opt/Motrix/resources/app.asar/node_modules/@motrix/nat-api/index.js:327:16
+    at Request._callback (/opt/Motrix/resources/app.asar/node_modules/@motrix/nat-api/lib/upnp/device.js:46:25)
+    at self.callback (/opt/Motrix/resources/app.asar/node_modules/request/request.js:185:22)
+    at Request.emit (events.js:315:20)
+    at Request.onRequestError (/opt/Motrix/resources/app.asar/node_modules/request/request.js:877:8)
+    at ClientRequest.emit (events.js:315:20)
+    at Socket.socketOnEnd (_http_client.js:453:9)
+    at Socket.emit (events.js:327:22)
+    at endReadableNT (_stream_readable.js:1220:12)
+[2022-09-23 15:52:57.142] [warn]  [Motrix] auto sync tracker data: [
+  'udp://93.158.213.92:1337/announce\n' +
+    '\n' +
+    'udp://151.80.120.114:2810/announce\n' +
+    '\n' +
+    'udp://45.154.253.8:6969/announce\n' +
+    '\n' +
+    'udp://91.216.110.52:451/announce\n' +
+    '\n' +
+    'udp://185.181.60.155:80/announce\n' +
+    '\n' +
+    'udp://65.21.91.32:6969/announce\n' +
+    '\n' +
+    'udp://149.28.47.87:1738/announce\n' +
+    '\n' +
+    'udp://74.120.175.165:6969/announce\n' +
+    '\n' +
+    'udp://185.102.219.163:6969/announce\n' +
+    '\n' +
+    'udp://156.234.201.18:80/announce\n' +
+    '\n' +
+    'udp://89.237.1.42:6969/announce\n' +
+    '\n' +
+    'udp://209.141.59.16:6969/announce\n' +
+    '\n' +
+    'udp://66.94.100.216:6969/announce\n' +
+    '\n' +
+    'udp://194.53.137.231:6969/announce\n' +
+    '\n' +
+    'udp://65.108.63.133:80/announce\n' +
+    '\n' +
+    'udp://93.104.214.40:6969/announce\n' +
+    '\n' +
+    'udp://107.189.11.230:6969/announce\n' +
+    '\n',
+  'udp://tracker.opentrackr.org:1337/announce\n' +
+    '\n' +
+    'udp://9.rarbg.com:2810/announce\n' +
+    '\n' +
+    'udp://tracker.openbittorrent.com:6969/announce\n' +
+    '\n' +
+    'http://tracker.openbittorrent.com:80/announce\n' +
+    '\n' +
+    'https://opentracker.i2p.rocks:443/announce\n' +
+    '\n' +
+    'udp://tracker.torrent.eu.org:451/announce\n' +
+    '\n' +
+    'udp://open.stealth.si:80/announce\n' +
+    '\n' +
+    'udp://zecircle.xyz:6969/announce\n' +
+    '\n' +
+    'udp://vibe.sleepyinternetfun.xyz:1738/announce\n' +
+    '\n' +
+    'udp://v2.iperson.xyz:6969/announce\n' +
+    '\n' +
+    'udp://uploads.gamecoast.net:6969/announce\n' +
+    '\n' +
+    'udp://tracker1.bt.moack.co.kr:80/announce\n' +
+    '\n' +
+    'udp://tracker.zemoj.com:6969/announce\n' +
+    '\n' +
+    'udp://tracker.tiny-vps.com:6969/announce\n' +
+    '\n' +
+    'udp://tracker.theoks.net:6969/announce\n' +
+    '\n' +
+    'udp://tracker.tcp.exchange:6969/announce\n' +
+    '\n' +
+    'udp://tracker.publictracker.xyz:6969/announce\n' +
+    '\n' +
+    'udp://tracker.pomf.se:80/announce\n' +
+    '\n' +
+    'udp://tracker.monitorit4.me:6969/announce\n' +
+    '\n' +
+    'udp://tracker.moeking.me:6969/announce\n' +
+    '\n'
+]
+[2022-09-26 14:28:48.717] [warn]  [Motrix] Logger init
+[2022-09-26 14:28:50.223] [warn]  [Motrix] auto sync tracker data: [
+  'udp://93.158.213.92:1337/announce\n' +
+    '\n' +
+    'udp://151.80.120.112:2810/announce\n' +
+    '\n' +
+    'udp://45.154.253.4:6969/announce\n' +
+    '\n' +
+    'udp://89.234.156.205:451/announce\n' +
+    '\n' +
+    'udp://51.81.46.170:6969/announce\n' +
+    '\n' +
+    'udp://185.181.60.155:80/announce\n' +
+    '\n' +
+    'udp://149.28.47.87:1738/announce\n' +
+    '\n' +
+    'udp://156.234.201.18:80/announce\n' +
+    '\n' +
+    'udp://134.209.1.127:6969/announce\n' +
+    '\n' +
+    'udp://89.237.1.42:6969/announce\n' +
+    '\n' +
+    'udp://209.141.59.16:6969/announce\n' +
+    '\n' +
+    'udp://45.92.156.182:2710/announce\n' +
+    '\n' +
+    'udp://116.9.207.249:6969/announce\n' +
+    '\n' +
+    'udp://194.53.137.231:6969/announce\n' +
+    '\n' +
+    'udp://107.189.11.230:6969/announce\n' +
+    '\n' +
+    'udp://211.20.122.47:6969/announce\n' +
+    '\n' +
+    'udp://103.196.36.31:6969/announce\n' +
+    '\n' +
+    'udp://185.134.22.3:6969/announce\n' +
+    '\n',
+  'udp://tracker.opentrackr.org:1337/announce\n' +
+    '\n' +
+    'udp://9.rarbg.com:2810/announce\n' +
+    '\n' +
+    'udp://tracker.openbittorrent.com:6969/announce\n' +
+    '\n' +
+    'http://tracker.openbittorrent.com:80/announce\n' +
+    '\n' +
+    'udp://opentracker.i2p.rocks:6969/announce\n' +
+    '\n' +
+    'https://opentracker.i2p.rocks:443/announce\n' +
+    '\n' +
+    'udp://tracker.torrent.eu.org:451/announce\n' +
+    '\n' +
+    'udp://open.stealth.si:80/announce\n' +
+    '\n' +
+    'udp://vibe.sleepyinternetfun.xyz:1738/announce\n' +
+    '\n' +
+    'udp://tracker1.bt.moack.co.kr:80/announce\n' +
+    '\n' +
+    'udp://tracker.tiny-vps.com:6969/announce\n' +
+    '\n' +
+    'udp://tracker.theoks.net:6969/announce\n' +
+    '\n' +
+    'udp://tracker.publictracker.xyz:6969/announce\n' +
+    '\n' +
+    'udp://tracker.monitorit4.me:6969/announce\n' +
+    '\n' +
+    'udp://tracker.moeking.me:6969/announce\n' +
+    '\n' +
+    'udp://tracker.dler.org:6969/announce\n' +
+    '\n' +
+    'udp://tracker.army:6969/announce\n' +
+    '\n' +
+    'udp://tracker.altrosky.nl:6969/announce\n' +
+    '\n' +
+    'udp://tracker.0x.tf:6969/announce\n' +
+    '\n' +
+    'udp://tracker-udp.gbitt.info:80/announce\n' +
+    '\n'
+]
+[2022-09-26 14:28:51.027] [warn]  [Motrix] UPnPManager map 21301 failed, error:  Error: UPnP port mapping failed
+    at /opt/Motrix/resources/app.asar/node_modules/@motrix/nat-api/index.js:226:25
+    at /opt/Motrix/resources/app.asar/node_modules/@motrix/nat-api/index.js:327:16
+    at /opt/Motrix/resources/app.asar/node_modules/@motrix/nat-api/lib/upnp/index.js:24:23
+    at Timeout._onTimeout (/opt/Motrix/resources/app.asar/node_modules/@motrix/nat-api/lib/upnp/index.js:193:7)
+    at listOnTimeout (internal/timers.js:549:17)
+    at processTimers (internal/timers.js:492:7)
+[2022-09-26 14:28:51.029] [warn]  [Motrix] UPnPManager map 26701 failed, error:  Error: UPnP port mapping failed
+    at /opt/Motrix/resources/app.asar/node_modules/@motrix/nat-api/index.js:226:25
+    at /opt/Motrix/resources/app.asar/node_modules/@motrix/nat-api/index.js:327:16
+    at /opt/Motrix/resources/app.asar/node_modules/@motrix/nat-api/lib/upnp/index.js:24:23
+    at Timeout._onTimeout (/opt/Motrix/resources/app.asar/node_modules/@motrix/nat-api/lib/upnp/index.js:193:7)
+    at listOnTimeout (internal/timers.js:549:17)
+    at processTimers (internal/timers.js:492:7)
+[2022-09-29 08:12:35.660] [warn]  [Motrix] Logger init
+[2022-09-29 08:12:36.737] [warn]  [Motrix] auto sync tracker data: [
+  'udp://93.158.213.92:1337/announce\n' +
+    '\n' +
+    'udp://151.80.120.112:2810/announce\n' +
+    '\n' +
+    'udp://45.154.253.10:6969/announce\n' +
+    '\n' +
+    'udp://23.137.251.45:6969/announce\n' +
+    '\n' +
+    'udp://91.216.110.52:451/announce\n' +
+    '\n' +
+    'udp://185.181.60.155:80/announce\n' +
+    '\n' +
+    'udp://156.234.201.18:80/announce\n' +
+    '\n' +
+    'udp://185.230.4.150:1337/announce\n' +
+    '\n' +
+    'udp://216.146.25.92:1337/announce\n' +
+    '\n' +
+    'udp://149.202.88.193:80/announce\n' +
+    '\n' +
+    'udp://184.105.151.166:6969/announce\n' +
+    '\n' +
+    'udp://208.83.20.20:6969/announce\n' +
+    '\n' +
+    'http://95.217.167.10:6969/announce\n' +
+    '\n' +
+    'http://185.70.187.79:6969/announce\n' +
+    '\n',
+  'udp://tracker.opentrackr.org:1337/announce\n' +
+    '\n' +
+    'udp://9.rarbg.com:2810/announce\n' +
+    '\n' +
+    'udp://tracker.openbittorrent.com:6969/announce\n' +
+    '\n' +
+    'udp://opentracker.i2p.rocks:6969/announce\n' +
+    '\n' +
+    'https://opentracker.i2p.rocks:443/announce\n' +
+    '\n' +
+    'http://tracker.openbittorrent.com:80/announce\n' +
+    '\n' +
+    'udp://tracker.torrent.eu.org:451/announce\n' +
+    '\n' +
+    'udp://open.stealth.si:80/announce\n' +
+    '\n' +
+    'udp://tracker.tiny-vps.com:6969/announce\n' +
+    '\n' +
+    'udp://zecircle.xyz:6969/announce\n' +
+    '\n' +
+    'udp://yahor.ftp.sh:6969/announce\n' +
+    '\n' +
+    'udp://vibe.sleepyinternetfun.xyz:1738/announce\n' +
+    '\n' +
+    'udp://v2.iperson.xyz:6969/announce\n' +
+    '\n' +
+    'udp://uploads.gamecoast.net:6969/announce\n' +
+    '\n' +
+    'udp://tracker2.dler.org:80/announce\n' +
+    '\n' +
+    'udp://tracker1.bt.moack.co.kr:80/announce\n' +
+    '\n' +
+    'udp://tracker.theoks.net:6969/announce\n' +
+    '\n' +
+    'udp://tracker.tcp.exchange:6969/announce\n' +
+    '\n' +
+    'udp://tracker.swateam.org.uk:2710/announce\n' +
+    '\n' +
+    'udp://tracker.publictracker.xyz:6969/announce\n' +
+    '\n'
+]
+[2022-09-29 08:12:37.793] [warn]  [Motrix] UPnPManager map 21301 failed, error:  Error: UPnP port mapping failed
+    at /opt/Motrix/resources/app.asar/node_modules/@motrix/nat-api/index.js:226:25
+    at /opt/Motrix/resources/app.asar/node_modules/@motrix/nat-api/index.js:327:16
+    at /opt/Motrix/resources/app.asar/node_modules/@motrix/nat-api/lib/upnp/index.js:24:23
+    at Timeout._onTimeout (/opt/Motrix/resources/app.asar/node_modules/@motrix/nat-api/lib/upnp/index.js:193:7)
+    at listOnTimeout (internal/timers.js:549:17)
+    at processTimers (internal/timers.js:492:7)
+[2022-09-29 08:12:37.794] [warn]  [Motrix] UPnPManager map 26701 failed, error:  Error: UPnP port mapping failed
+    at /opt/Motrix/resources/app.asar/node_modules/@motrix/nat-api/index.js:226:25
+    at /opt/Motrix/resources/app.asar/node_modules/@motrix/nat-api/index.js:327:16
+    at /opt/Motrix/resources/app.asar/node_modules/@motrix/nat-api/lib/upnp/index.js:24:23
+    at Timeout._onTimeout (/opt/Motrix/resources/app.asar/node_modules/@motrix/nat-api/lib/upnp/index.js:193:7)
+    at listOnTimeout (internal/timers.js:549:17)
+    at processTimers (internal/timers.js:492:7)
+[2022-09-29 08:49:40.743] [warn]  [Motrix] Logger init
+[2022-10-15 21:13:45.083] [warn]  [Motrix] Logger init
+[2022-10-15 21:13:47.500] [warn]  [Motrix] UPnPManager map 26701 failed, error:  Error: UPnP port mapping failed
+    at /usr/lib/motrix/app.asar/node_modules/@motrix/nat-api/index.js:226:25
+    at /usr/lib/motrix/app.asar/node_modules/@motrix/nat-api/index.js:324:16
+    at /usr/lib/motrix/app.asar/node_modules/@motrix/nat-api/lib/upnp/index.js:24:23
+    at Timeout._onTimeout (/usr/lib/motrix/app.asar/node_modules/@motrix/nat-api/lib/upnp/index.js:193:7)
+    at listOnTimeout (node:internal/timers:559:17)
+    at process.processTimers (node:internal/timers:502:7)
+[2022-10-15 21:13:47.510] [warn]  [Motrix] UPnPManager map 21301 failed, error:  Error: UPnP port mapping failed
+    at /usr/lib/motrix/app.asar/node_modules/@motrix/nat-api/index.js:226:25
+    at /usr/lib/motrix/app.asar/node_modules/@motrix/nat-api/index.js:324:16
+    at /usr/lib/motrix/app.asar/node_modules/@motrix/nat-api/lib/upnp/index.js:24:23
+    at Timeout._onTimeout (/usr/lib/motrix/app.asar/node_modules/@motrix/nat-api/lib/upnp/index.js:193:7)
+    at listOnTimeout (node:internal/timers:559:17)
+    at process.processTimers (node:internal/timers:502:7)
+[2022-10-15 21:13:51.216] [warn]  [Motrix] auto sync tracker data: [
+  'udp://93.158.213.92:1337/announce\n' +
+    '\n' +
+    'udp://151.80.120.112:2810/announce\n' +
+    '\n' +
+    'udp://45.154.253.7:6969/announce\n' +
+    '\n' +
+    'http://45.154.253.7:80/announce\n' +
+    '\n' +
+    'udp://91.216.110.52:451/announce\n' +
+    '\n' +
+    'udp://23.137.251.45:6969/announce\n' +
+    '\n' +
+    'udp://185.181.60.155:80/announce\n' +
+    '\n' +
+    'udp://149.28.47.87:1738/announce\n' +
+    '\n' +
+    'udp://156.234.201.18:80/announce\n' +
+    '\n' +
+    'udp://134.209.1.127:6969/announce\n' +
+    '\n' +
+    'udp://209.141.59.16:6969/announce\n' +
+    '\n' +
+    'udp://45.92.156.182:2710/announce\n' +
+    '\n' +
+    'udp://194.53.137.231:6969/announce\n' +
+    '\n' +
+    'udp://65.108.63.133:80/announce\n' +
+    '\n' +
+    'udp://93.104.214.40:6969/announce\n' +
+    '\n' +
+    'udp://107.189.11.230:6969/announce\n' +
+    '\n' +
+    'udp://95.217.161.135:6969/announce\n' +
+    '\n' +
+    'udp://217.30.10.77:6969/announce\n' +
+    '\n' +
+    'udp://103.196.36.31:6969/announce\n' +
+    '\n',
+  'udp://tracker.opentrackr.org:1337/announce\n' +
+    '\n' +
+    'udp://9.rarbg.com:2810/announce\n' +
+    '\n' +
+    'udp://tracker.openbittorrent.com:6969/announce\n' +
+    '\n' +
+    'http://tracker.openbittorrent.com:80/announce\n' +
+    '\n' +
+    'udp://tracker.torrent.eu.org:451/announce\n' +
+    '\n' +
+    'udp://opentracker.i2p.rocks:6969/announce\n' +
+    '\n' +
+    'udp://open.stealth.si:80/announce\n' +
+    '\n' +
+    'https://opentracker.i2p.rocks:443/announce\n' +
+    '\n' +
+    'udp://vibe.sleepyinternetfun.xyz:1738/announce\n' +
+    '\n' +
+    'udp://tracker1.bt.moack.co.kr:80/announce\n' +
+    '\n' +
+    'udp://tracker.zemoj.com:6969/announce\n' +
+    '\n' +
+    'udp://tracker.theoks.net:6969/announce\n' +
+    '\n' +
+    'udp://tracker.swateam.org.uk:2710/announce\n' +
+    '\n' +
+    'udp://tracker.publictracker.xyz:6969/announce\n' +
+    '\n' +
+    'udp://tracker.pomf.se:80/announce\n' +
+    '\n' +
+    'udp://tracker.monitorit4.me:6969/announce\n' +
+    '\n' +
+    'udp://tracker.moeking.me:6969/announce\n' +
+    '\n' +
+    'udp://tracker.lelux.fi:6969/announce\n' +
+    '\n' +
+    'udp://tracker.dler.org:6969/announce\n' +
+    '\n' +
+    'udp://tracker.army:6969/announce\n' +
+    '\n'
+]
+[2022-10-15 21:14:45.101] [warn]  [Motrix] call client fail: request to http://127.0.0.1:16800/jsonrpc failed, reason: socket hang up
+[2022-10-18 12:44:40.207] [warn]  [Motrix] Logger init
+[2022-10-18 12:44:42.860] [warn]  [Motrix] UPnPManager map 26701 failed, error:  Error: UPnP port mapping failed
+    at /usr/lib/motrix/app.asar/node_modules/@motrix/nat-api/index.js:226:25
+    at /usr/lib/motrix/app.asar/node_modules/@motrix/nat-api/index.js:324:16
+    at /usr/lib/motrix/app.asar/node_modules/@motrix/nat-api/lib/upnp/index.js:24:23
+    at Timeout._onTimeout (/usr/lib/motrix/app.asar/node_modules/@motrix/nat-api/lib/upnp/index.js:193:7)
+    at listOnTimeout (node:internal/timers:559:17)
+    at process.processTimers (node:internal/timers:502:7)
+[2022-10-18 12:44:42.861] [warn]  [Motrix] UPnPManager map 21301 failed, error:  Error: UPnP port mapping failed
+    at /usr/lib/motrix/app.asar/node_modules/@motrix/nat-api/index.js:226:25
+    at /usr/lib/motrix/app.asar/node_modules/@motrix/nat-api/index.js:324:16
+    at /usr/lib/motrix/app.asar/node_modules/@motrix/nat-api/lib/upnp/index.js:24:23
+    at Timeout._onTimeout (/usr/lib/motrix/app.asar/node_modules/@motrix/nat-api/lib/upnp/index.js:193:7)
+    at listOnTimeout (node:internal/timers:559:17)
+    at process.processTimers (node:internal/timers:502:7)
+[2022-10-18 12:44:47.026] [warn]  [Motrix] auto sync tracker data: [
+  'udp://93.158.213.92:1337/announce\n' +
+    '\n' +
+    'udp://151.80.120.112:2810/announce\n' +
+    '\n' +
+    'udp://45.154.253.8:6969/announce\n' +
+    '\n' +
+    'udp://23.137.251.45:6969/announce\n' +
+    '\n' +
+    'udp://185.181.60.155:80/announce\n' +
+    '\n' +
+    'udp://149.28.47.87:1738/announce\n' +
+    '\n' +
+    'udp://156.234.201.18:80/announce\n' +
+    '\n' +
+    'udp://134.209.1.127:6969/announce\n' +
+    '\n' +
+    'udp://89.234.156.205:451/announce\n' +
+    '\n' +
+    'udp://176.56.2.11:6969/announce\n' +
+    '\n' +
+    'udp://209.141.59.16:6969/announce\n' +
+    '\n' +
+    'udp://45.92.156.182:2710/announce\n' +
+    '\n' +
+    'udp://93.104.214.40:6969/announce\n' +
+    '\n' +
+    'udp://107.189.11.230:6969/announce\n' +
+    '\n' +
+    'udp://95.217.161.135:6969/announce\n' +
+    '\n' +
+    'udp://61.216.166.123:6969/announce\n' +
+    '\n' +
+    'udp://103.196.36.31:6969/announce\n' +
+    '\n',
+  'udp://tracker.opentrackr.org:1337/announce\n' +
+    '\n' +
+    'udp://9.rarbg.com:2810/announce\n' +
+    '\n' +
+    'udp://tracker.openbittorrent.com:6969/announce\n' +
+    '\n' +
+    'udp://opentracker.i2p.rocks:6969/announce\n' +
+    '\n' +
+    'https://opentracker.i2p.rocks:443/announce\n' +
+    '\n' +
+    'http://tracker.openbittorrent.com:80/announce\n' +
+    '\n' +
+    'udp://open.stealth.si:80/announce\n' +
+    '\n' +
+    'udp://vibe.sleepyinternetfun.xyz:1738/announce\n' +
+    '\n' +
+    'udp://tracker1.bt.moack.co.kr:80/announce\n' +
+    '\n' +
+    'udp://tracker.zemoj.com:6969/announce\n' +
+    '\n' +
+    'udp://tracker.torrent.eu.org:451/announce\n' +
+    '\n' +
+    'udp://tracker.tiny-vps.com:6969/announce\n' +
+    '\n' +
+    'udp://tracker.theoks.net:6969/announce\n' +
+    '\n' +
+    'udp://tracker.swateam.org.uk:2710/announce\n' +
+    '\n' +
+    'udp://tracker.publictracker.xyz:6969/announce\n' +
+    '\n' +
+    'udp://tracker.monitorit4.me:6969/announce\n' +
+    '\n' +
+    'udp://tracker.moeking.me:6969/announce\n' +
+    '\n' +
+    'udp://tracker.lelux.fi:6969/announce\n' +
+    '\n' +
+    'udp://tracker.dler.org:6969/announce\n' +
+    '\n' +
+    'udp://tracker.army:6969/announce\n' +
+    '\n'
+]
+[2022-10-18 12:48:36.641] [warn]  [Motrix] call client fail: request to http://127.0.0.1:16800/jsonrpc failed, reason: socket hang up

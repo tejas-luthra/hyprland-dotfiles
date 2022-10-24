@@ -1,0 +1,14 @@
+2022/10/23-00:45:58.786 6d86 Reusing MANIFEST /home/tejas/.config/discord/Local Storage/leveldb/MANIFEST-000001
+2022/10/23-00:45:58.787 6d86 Recovering log #53
+2022/10/23-00:45:58.789 6d86 Level-0 table #56: started
+2022/10/23-00:45:58.798 6d86 Level-0 table #56: 1161750 bytes OK
+2022/10/23-00:45:58.800 6d86 Delete type=0 #53
+2022/10/23-00:45:58.800 6d85 Compacting 4@0 + 1@1 files
+2022/10/23-00:45:58.846 6d85 Generated table #58@0: 74 keys, 2310140 bytes
+2022/10/23-00:45:58.847 6d85 Compacted 4@0 + 1@1 files => 2310140 bytes
+2022/10/23-00:45:58.848 6d85 compacted to: files[ 0 2 1 0 0 0 0 ]
+2022/10/23-00:45:58.848 6d85 Delete type=2 #54
+2022/10/23-00:45:58.848 6d85 Delete type=2 #56
+2022/10/23-00:45:58.848 6d85 Delete type=2 #45
+2022/10/23-00:45:58.848 6d85 Delete type=2 #48
+2022/10/23-00:45:58.848 6d85 Delete type=2 #50

@@ -1,0 +1,16 @@
+[269560:1012/194550.081404:ERROR:object_proxy.cc(623)] Failed to call method: org.freedesktop.DBus.Properties.Get: object_path= /org/freedesktop/portal/desktop: org.freedesktop.DBus.Error.InvalidArgs: No such interface “org.freedesktop.portal.FileChooser”
+[269560:1012/194550.081450:WARNING:property.cc(144)] version: GetAndBlock: failed.
+[269560:1012/194550.081457:ERROR:select_file_dialog_linux_portal.cc(242)] Failed to read portal version property
+[269560:1012/194550.186553:WARNING:bluez_dbus_manager.cc(247)] Floss manager not present, cannot set Floss enable/disable.
+[269560:1012/194550.225269:ERROR:browser_main_loop.cc(270)] Gtk: gtk_widget_add_accelerator: assertion 'GTK_IS_ACCEL_GROUP (accel_group)' failed
+[269560:1012/194614.861769:ERROR:browser_main_loop.cc(270)] Gtk: gtk_widget_add_accelerator: assertion 'GTK_IS_ACCEL_GROUP (accel_group)' failed
+[269560:1012/194614.862031:ERROR:browser_main_loop.cc(270)] Gtk: gtk_widget_add_accelerator: assertion 'GTK_IS_ACCEL_GROUP (accel_group)' failed
+[269560:1012/194616.474810:ERROR:browser_main_loop.cc(270)] Gtk: gtk_widget_add_accelerator: assertion 'GTK_IS_ACCEL_GROUP (accel_group)' failed
+[269560:1012/194616.475073:ERROR:browser_main_loop.cc(270)] Gtk: gtk_widget_add_accelerator: assertion 'GTK_IS_ACCEL_GROUP (accel_group)' failed
+[269560:1012/194710.959011:ERROR:browser_main_loop.cc(270)] Gtk: gtk_widget_add_accelerator: assertion 'GTK_IS_ACCEL_GROUP (accel_group)' failed
+[269560:1012/194710.959415:ERROR:browser_main_loop.cc(270)] Gtk: gtk_widget_add_accelerator: assertion 'GTK_IS_ACCEL_GROUP (accel_group)' failed
+[269560:1012/194713.142781:ERROR:browser_main_loop.cc(270)] Gtk: gtk_widget_add_accelerator: assertion 'GTK_IS_ACCEL_GROUP (accel_group)' failed
+[269560:1012/194713.168224:ERROR:browser_main_loop.cc(270)] Gtk: gtk_widget_add_accelerator: assertion 'GTK_IS_ACCEL_GROUP (accel_group)' failed
+[269560:1012/194713.168476:ERROR:browser_main_loop.cc(270)] Gtk: gtk_widget_add_accelerator: assertion 'GTK_IS_ACCEL_GROUP (accel_group)' failed
+[269560:1012/194751.996351:ERROR:browser_main_loop.cc(270)] Gtk: gtk_widget_add_accelerator: assertion 'GTK_IS_ACCEL_GROUP (accel_group)' failed
+[269560:1012/194751.996631:ERROR:browser_main_loop.cc(270)] Gtk: gtk_widget_add_accelerator: assertion 'GTK_IS_ACCEL_GROUP (accel_group)' failed

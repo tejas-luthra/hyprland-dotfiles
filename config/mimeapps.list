@@ -1,0 +1,30 @@
+[Default Applications]
+x-scheme-handler/etcher=balena-etcher-electron.desktop
+x-scheme-handler/http=userapp-Nightly-GW86T1.desktop
+x-scheme-handler/https=userapp-Nightly-GW86T1.desktop
+x-scheme-handler/chrome=userapp-Nightly-GW86T1.desktop
+text/html=userapp-Nightly-GW86T1.desktop
+application/x-extension-htm=userapp-Nightly-GW86T1.desktop
+application/x-extension-html=userapp-Nightly-GW86T1.desktop
+application/x-extension-shtml=userapp-Nightly-GW86T1.desktop
+application/xhtml+xml=userapp-Nightly-GW86T1.desktop
+application/x-extension-xhtml=userapp-Nightly-GW86T1.desktop
+application/x-extension-xht=userapp-Nightly-GW86T1.desktop
+image/png=mirage.desktop
+image/jpeg=mirage.desktop
+
+[Added Associations]
+x-scheme-handler/http=xfce4-web-browser.desktop;userapp-Nightly-TF9ES1.desktop;userapp-Nightly-GW86T1.desktop;
+x-scheme-handler/https=xfce4-web-browser.desktop;userapp-Nightly-TF9ES1.desktop;userapp-Nightly-GW86T1.desktop;
+application/x-scheme-handler/zoommtg=us.zoom.Zoom.desktop
+application/pdf=okularApplication_pdf.desktop;
+x-scheme-handler/chrome=userapp-Nightly-GW86T1.desktop;
+text/html=userapp-Nightly-GW86T1.desktop;
+application/x-extension-htm=userapp-Nightly-GW86T1.desktop;
+application/x-extension-html=userapp-Nightly-GW86T1.desktop;
+application/x-extension-shtml=userapp-Nightly-GW86T1.desktop;
+application/xhtml+xml=userapp-Nightly-GW86T1.desktop;
+application/x-extension-xhtml=userapp-Nightly-GW86T1.desktop;
+application/x-extension-xht=userapp-Nightly-GW86T1.desktop;
+image/png=mirage.desktop;
+image/jpeg=mirage.desktop;

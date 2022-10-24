@@ -1,0 +1,4 @@
+[2022-09-17 14:28:52.473] [main] [info] update#setState idle
+[2022-09-17 14:28:53.288] [main] [info] Starting extension host with pid 32417 (fork() took 5 ms).
+[2022-09-17 14:29:12.404] [main] [info] Extension host with pid 32417 exited with code: 0, signal: null.
+[2022-09-17 14:29:12.407] [main] [info] Waiting for extension host with pid 32417 to exit.

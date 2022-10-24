@@ -1,0 +1,6 @@
+[2022-09-13 20:21:54.677] [main] [info] update#setState idle
+[2022-09-13 20:21:55.706] [main] [info] Starting extension host with pid 10496 (fork() took 42 ms).
+[2022-09-13 20:21:55.713] [main] [info] Starting extension host with pid 10499 (fork() took 4 ms).
+[2022-09-13 20:22:00.444] [main] [info] Extension host with pid 10496 exited with code: 0, signal: null.
+[2022-09-13 20:22:01.138] [main] [info] Waiting for extension host with pid 10499 to exit.
+[2022-09-13 20:22:01.140] [main] [info] Extension host with pid 10499 exited with code: 0, signal: null.

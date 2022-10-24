@@ -1,0 +1,3 @@
+[2022-09-17 14:39:23.714] [renderer1] [critical] Extension 'ms-vscode.js-debug' appears in product.json but enables LESS API proposals than the extension wants.
+package.json (LOSES): portsAttributes, findTextInFiles, workspaceTrust, resolvers, tunnels
+product.json (WINS): portsAttributes, findTextInFiles, workspaceTrust, resolvers

@@ -1,0 +1,11 @@
+[2022-09-13 20:21:56.167] [exthost] [info] Extension host with pid 10499 started
+[2022-09-13 20:21:56.167] [exthost] [info] Skipping acquiring lock for /home/tejas/.config/VSCodium/User/workspaceStorage/7ace284ac5e27de39cfd9217dfb939d9.
+[2022-09-13 20:21:56.199] [exthost] [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: true, activationEvent: '*'
+[2022-09-13 20:21:56.201] [exthost] [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*'
+[2022-09-13 20:21:56.203] [exthost] [info] ExtensionService#_doActivateExtension vscode.ipynb, startup: true, activationEvent: '*'
+[2022-09-13 20:21:56.210] [exthost] [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+[2022-09-13 20:21:56.215] [exthost] [info] Eager extensions activated
+[2022-09-13 20:21:56.217] [exthost] [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onStartupFinished'
+[2022-09-13 20:21:56.222] [exthost] [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+[2022-09-13 20:22:01.132] [exthost] [info] Extension host terminating: received terminate message from renderer
+[2022-09-13 20:22:01.133] [exthost] [info] Extension host with pid 10499 exiting with code 0

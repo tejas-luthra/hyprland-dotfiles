@@ -1,0 +1,18 @@
+2022/09/28-18:56:06.105 7b45 Reusing MANIFEST /home/tejas/.config/WebCord/Local Storage/leveldb/MANIFEST-000001
+2022/09/28-18:56:06.112 7b45 Recovering log #81
+2022/09/28-18:56:06.112 7b45 Reusing old log /home/tejas/.config/WebCord/Local Storage/leveldb/000081.log 
+2022/09/28-18:57:13.116 7b55 Level-0 table #85: started
+2022/09/28-18:57:13.401 7b55 Level-0 table #85: 28326 bytes OK
+2022/09/28-18:57:13.911 7b55 Delete type=0 #81
+2022/09/28-22:12:02.136 e6d0 Level-0 table #87: started
+2022/09/28-22:12:02.145 e6d0 Level-0 table #87: 1110360 bytes OK
+2022/09/28-22:12:02.148 e6d0 Delete type=0 #84
+2022/09/28-22:12:02.148 e6d0 Compacting 4@0 + 1@1 files
+2022/09/28-22:12:02.158 e6d0 Generated table #88@0: 47 keys, 1134770 bytes
+2022/09/28-22:12:02.158 e6d0 Compacted 4@0 + 1@1 files => 1134770 bytes
+2022/09/28-22:12:02.160 e6d0 compacted to: files[ 0 1 1 0 0 0 0 ]
+2022/09/28-22:12:02.160 e6d0 Delete type=2 #77
+2022/09/28-22:12:02.160 e6d0 Delete type=2 #80
+2022/09/28-22:12:02.160 e6d0 Delete type=2 #82
+2022/09/28-22:12:02.160 e6d0 Delete type=2 #85
+2022/09/28-22:12:02.160 e6d0 Delete type=2 #87

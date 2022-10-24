@@ -1,0 +1,18 @@
+2022/10/11-08:46:00.384 b586 Reusing MANIFEST /home/tejas/.config/chromium/Default/IndexedDB/https_www.youtube.com_0.indexeddb.leveldb/MANIFEST-000001
+2022/10/11-08:46:00.384 b586 Recovering log #3
+2022/10/11-08:46:00.386 b586 Reusing old log /home/tejas/.config/chromium/Default/IndexedDB/https_www.youtube.com_0.indexeddb.leveldb/000003.log 
+2022/10/11-08:46:02.622 b6aa Level-0 table #5: started
+2022/10/11-08:46:02.625 b6aa Level-0 table #5: 89510 bytes OK
+2022/10/11-08:46:02.627 b6aa Delete type=0 #3
+2022/10/11-08:46:02.628 b6aa Manual compaction at level-0 from '\x00\x02\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x03\x00\x00\x00' @ 0 : 0; will stop at (end)
+2022/10/11-08:46:02.666 b6b2 Level-0 table #7: started
+2022/10/11-08:46:02.667 b6b2 Level-0 table #7: 847 bytes OK
+2022/10/11-08:46:02.670 b6b2 Delete type=0 #4
+2022/10/11-08:46:02.670 b6b2 Manual compaction at level-0 from '\x00\x03\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x04\x00\x00\x00' @ 0 : 0; will stop at (end)
+2022/10/11-08:46:02.670 b6b2 Manual compaction at level-1 from '\x00\x03\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x04\x00\x00\x00' @ 0 : 0; will stop at '\x00\x04\x01\x02\x03\x00\x00\x00\x00\x00\x00\x14@' @ 1155 : 0
+2022/10/11-08:46:02.670 b6b2 Compacting 1@1 + 1@2 files
+2022/10/11-08:46:02.672 b6b2 Generated table #8@1: 205 keys, 7849 bytes
+2022/10/11-08:46:02.672 b6b2 Compacted 1@1 + 1@2 files => 7849 bytes
+2022/10/11-08:46:02.674 b6b2 compacted to: files[ 0 0 1 0 0 0 0 ]
+2022/10/11-08:46:02.674 b6b2 Delete type=2 #7
+2022/10/11-08:46:02.674 b6b2 Manual compaction at level-1 from '\x00\x04\x01\x02\x03\x00\x00\x00\x00\x00\x00\x14@' @ 1155 : 0 .. '\x00\x04\x00\x00\x00' @ 0 : 0; will stop at (end)

@@ -1,0 +1,149 @@
+10:43:19.378: Platform: Wayland
+10:43:19.378: CPU Name: AMD Ryzen 7 5800H with Radeon Graphics
+10:43:19.378: CPU Speed: 3268.161MHz
+10:43:19.378: Physical Cores: 8, Logical Cores: 16
+10:43:19.378: Physical Memory: 13834MB Total, 6695MB Free
+10:43:19.378: Kernel Version: Linux 5.19.12-arch1-1
+10:43:19.378: Distribution: "Arch Linux" Unknown
+10:43:19.378: Session Type: wayland
+10:43:19.379: Qt Version: 6.3.2 (runtime), 6.3.2 (compiled)
+10:43:19.379: Portable mode: false
+10:43:19.408: OBS 28.0.2-1 (linux)
+10:43:19.408: ---------------------------------
+10:43:19.408: ---------------------------------
+10:43:19.408: audio settings reset:
+10:43:19.408: 	samples per sec: 48000
+10:43:19.408: 	speakers:        2
+10:43:19.408: 	max buffering:   960 milliseconds
+10:43:19.408: 	buffering type:  dynamically increasing
+10:43:19.409: ---------------------------------
+10:43:19.409: Initializing OpenGL...
+10:43:19.409: Using EGL/Wayland
+10:43:19.437: Initialized EGL 1.5
+10:43:19.450: Loading up OpenGL on adapter AMD AMD RENOIR (LLVM 14.0.6, DRM 3.47, 5.19.12-arch1-1)
+10:43:19.450: OpenGL loaded successfully, version 4.6 (Core Profile) Mesa 22.1.7, shading language 4.60
+10:43:19.475: ---------------------------------
+10:43:19.475: video settings reset:
+10:43:19.475: 	base resolution:   1920x1080
+10:43:19.475: 	output resolution: 1920x1080
+10:43:19.475: 	downscale filter:  Bicubic
+10:43:19.475: 	fps:               120/1
+10:43:19.475: 	format:            NV12
+10:43:19.475: 	YUV mode:          Rec. 709/Partial
+10:43:19.475: NV12 texture support not available
+10:43:19.475: P010 texture support not available
+10:43:19.478: Audio monitoring device:
+10:43:19.478: 	name: Default
+10:43:19.478: 	id: default
+10:43:19.478: ---------------------------------
+10:43:19.484: Failed to load 'en-US' text for module: 'decklink-captions.so'
+10:43:19.489: Failed to load 'en-US' text for module: 'decklink-output-ui.so'
+10:43:19.493: A DeckLink iterator could not be created.  The DeckLink drivers may not be installed
+10:43:19.493: Failed to initialize module 'decklink.so'
+10:43:19.587: [pipewire] Available captures:
+10:43:19.587: [pipewire]     - Desktop capture
+10:43:19.614: os_dlopen(libnvidia-encode.so.1->libnvidia-encode.so.1): libnvidia-encode.so.1: cannot open shared object file: No such file or directory
+10:43:19.614: 
+10:43:19.614: FFMPEG VAAPI supported
+10:43:19.646: ---------------------------------
+10:43:19.646:   Loaded Modules:
+10:43:19.646:     text-freetype2.so
+10:43:19.646:     rtmp-services.so
+10:43:19.646:     obs-x264.so
+10:43:19.646:     obs-transitions.so
+10:43:19.646:     obs-outputs.so
+10:43:19.646:     obs-filters.so
+10:43:19.646:     obs-ffmpeg.so
+10:43:19.646:     linux-v4l2.so
+10:43:19.646:     linux-pulseaudio.so
+10:43:19.646:     linux-pipewire.so
+10:43:19.646:     linux-capture.so
+10:43:19.646:     linux-alsa.so
+10:43:19.646:     image-source.so
+10:43:19.646:     frontend-tools.so
+10:43:19.646:     decklink-output-ui.so
+10:43:19.646:     decklink-captions.so
+10:43:19.646: ---------------------------------
+10:43:19.647: ==== Startup complete ===============================================
+10:43:19.664: All scene data cleared
+10:43:19.664: ------------------------------------------------
+10:43:19.670: pulse-input: Server name: 'PulseAudio (on PipeWire 0.3.58) 15.0.0'
+10:43:19.670: pulse-input: Audio format: s32le, 48000 Hz, 2 channels
+10:43:19.670: pulse-input: Started recording from 'alsa_output.pci-0000_05_00.6.analog-stereo.monitor'
+10:43:19.670: [Loaded global audio device]: 'Desktop Audio'
+10:43:19.670: pulse-input: Server name: 'PulseAudio (on PipeWire 0.3.58) 15.0.0'
+10:43:19.671: pulse-input: Audio format: s32le, 48000 Hz, 2 channels
+10:43:19.671: pulse-input: Started recording from 'alsa_input.pci-0000_05_00.6.analog-stereo'
+10:43:19.671: [Loaded global audio device]: 'Mic/Aux'
+10:43:19.671: PipeWire initialized
+10:43:19.671: Switched to scene 'Scene'
+10:43:19.671: ------------------------------------------------
+10:43:19.671: Loaded scenes:
+10:43:19.671: - scene 'Scene':
+10:43:19.671:     - source: 'Screen Capture (PipeWire)' (pipewire-desktop-capture-source)
+10:43:19.671: ------------------------------------------------
+10:43:19.692: [pipewire] Screencast session created
+10:43:20.326: adding 42 milliseconds of audio buffering, total audio buffering is now 42 milliseconds (source: Desktop Audio)
+10:43:20.326: 
+10:43:21.422: [pipewire] Asking for desktop
+10:43:21.424: [pipewire] desktop selected, setting up screencast
+10:43:21.428: [pipewire] Server version: 0.3.58
+10:43:21.428: [pipewire] Library version: 0.3.58
+10:43:21.428: [pipewire] Header version: 0.3.58
+10:43:21.428: [pipewire] Created stream 0x55812657da70
+10:43:21.428: [pipewire] Stream 0x55812657da70 state: "connecting" (error: none)
+10:43:21.428: [pipewire] Playing stream 0x55812657da70
+10:43:21.428: [pipewire] Stream 0x55812657da70 state: "paused" (error: none)
+10:43:21.429: [pipewire] Negotiated format:
+10:43:21.429: [pipewire]     Format: 8 (Spa:Enum:VideoFormat:BGRx)
+10:43:21.429: [pipewire]     Modifier: 0
+10:43:21.429: [pipewire]     Size: 1920x1080
+10:43:21.429: [pipewire]     Framerate: 0/1
+10:43:21.431: [pipewire] Negotiated format:
+10:43:21.431: [pipewire]     Format: 8 (Spa:Enum:VideoFormat:BGRx)
+10:43:21.431: [pipewire]     Modifier: 144115206334822913
+10:43:21.431: [pipewire]     Size: 1920x1080
+10:43:21.431: [pipewire]     Framerate: 0/1
+10:43:21.432: [pipewire] Stream 0x55812657da70 state: "streaming" (error: none)
+10:43:21.439: Cannot create EGLImage: EGL failed to allocate resources for the requested operation.
+10:43:21.439: [pipewire] Renegotiating stream
+10:43:21.440: [pipewire] Negotiated format:
+10:43:21.440: [pipewire]     Format: 8 (Spa:Enum:VideoFormat:BGRx)
+10:43:21.440: [pipewire]     Modifier: 144115206334822913
+10:43:21.440: [pipewire]     Size: 1920x1080
+10:43:21.440: [pipewire]     Framerate: 0/1
+10:43:21.440: [pipewire] Negotiated format:
+10:43:21.440: [pipewire]     Format: 8 (Spa:Enum:VideoFormat:BGRx)
+10:43:21.440: [pipewire]     Modifier: 144115206334822657
+10:43:21.440: [pipewire]     Size: 1920x1080
+10:43:21.440: [pipewire]     Framerate: 0/1
+10:43:21.448: Cannot create EGLImage: EGL failed to allocate resources for the requested operation.
+10:43:21.448: [pipewire] Renegotiating stream
+10:43:21.448: [pipewire] Stream 0x55812657da70 state: "paused" (error: none)
+10:43:21.448: [pipewire] Stream 0x55812657da70 state: "streaming" (error: none)
+10:43:21.448: [pipewire] Stream 0x55812657da70 state: "paused" (error: none)
+10:43:21.448: [pipewire] Negotiated format:
+10:43:21.448: [pipewire]     Format: 8 (Spa:Enum:VideoFormat:BGRx)
+10:43:21.448: [pipewire]     Modifier: 144115206334822657
+10:43:21.448: [pipewire]     Size: 1920x1080
+10:43:21.448: [pipewire]     Framerate: 0/1
+10:43:21.448: [pipewire] Negotiated format:
+10:43:21.448: [pipewire]     Format: 8 (Spa:Enum:VideoFormat:BGRx)
+10:43:21.448: [pipewire]     Modifier: 144115206334806273
+10:43:21.448: [pipewire]     Size: 1920x1080
+10:43:21.448: [pipewire]     Framerate: 0/1
+10:43:21.449: [pipewire] Stream 0x55812657da70 state: "streaming" (error: none)
+10:43:21.456: Cannot create EGLImage: EGL failed to allocate resources for the requested operation.
+10:43:21.456: [pipewire] Renegotiating stream
+10:43:21.456: [pipewire] Negotiated format:
+10:43:21.456: [pipewire]     Format: 8 (Spa:Enum:VideoFormat:BGRx)
+10:43:21.456: [pipewire]     Modifier: 144115206334806273
+10:43:21.456: [pipewire]     Size: 1920x1080
+10:43:21.456: [pipewire]     Framerate: 0/1
+10:43:21.457: [pipewire] Negotiated format:
+10:43:21.457: [pipewire]     Format: 8 (Spa:Enum:VideoFormat:BGRx)
+10:43:21.457: [pipewire]     Modifier: 144115188080056833
+10:43:21.457: [pipewire]     Size: 1920x1080
+10:43:21.457: [pipewire]     Framerate: 0/1
+10:43:22.372: NV12 texture support not available
+10:43:22.372: P010 texture support not available
