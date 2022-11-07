@@ -12,7 +12,7 @@ autoconf
 automake
 awesome
 base
-bbswitch
+bbswitch-dkms
 binutils
 bison
 blueberry
@@ -32,6 +32,7 @@ dnsmasq
 docker
 dunst
 efibootmgr
+exfat-utils
 fakeroot
 feh
 file
@@ -59,14 +60,16 @@ grub
 gtk-layer-shell
 gtkmm
 gzip
+hashcat
 htop
+hydra
 iptables-nft
 iw
 iwd
 java11-openjfx
+john
 kitty
 kmix
-libguestfs
 libqtxdg
 libreoffice-fresh
 libtool
@@ -93,6 +96,7 @@ netctl
 network-manager-applet
 networkmanager
 nmap
+nodejs
 numlockx
 nvidia-prime
 obs-studio
@@ -112,7 +116,6 @@ pavucontrol
 pipewire-alsa
 pipewire-pulse
 pkgconf
-pulseaudio-alsa
 qbittorrent
 qemu-full
 qt5-3d
@@ -206,6 +209,7 @@ waybar
 wf-recorder
 wget
 which
+wipe
 wireguard-tools
 wireless_tools
 wireplumber
@@ -216,5 +220,6 @@ xfce4-settings
 xkeycaps
 xorg-xhost
 xorg-xinit
+yarn
 zram-generator
 zsh

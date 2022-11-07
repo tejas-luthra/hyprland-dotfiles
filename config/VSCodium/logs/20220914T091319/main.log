@@ -1,4 +1,0 @@
-[2022-09-14 09:13:19.885] [main] [info] update#setState idle
-[2022-09-14 09:13:20.806] [main] [info] Starting extension host with pid 20982 (fork() took 6 ms).
-[2022-09-14 09:13:23.617] [main] [info] Waiting for extension host with pid 20982 to exit.
-[2022-09-14 09:13:23.622] [main] [info] Extension host with pid 20982 exited with code: 0, signal: null.
