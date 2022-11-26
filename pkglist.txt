@@ -30,6 +30,7 @@ dialog
 discord
 dnsmasq
 docker
+dosfstools
 dunst
 efibootmgr
 exfat-utils
@@ -54,10 +55,11 @@ git
 gnome-tweaks
 gparted
 grep
-grim
 groff
 grub
+gtk-engines
 gtk-layer-shell
+gtk4
 gtkmm
 gzip
 hashcat
@@ -76,7 +78,6 @@ libtool
 light
 linux
 linux-firmware
-linux-hardened
 linux-headers
 lxsession-gtk3
 m4
@@ -131,7 +132,6 @@ qt5-lottie
 qt5-networkauth
 qt5-purchasing
 qt5-quick3d
-qt5-quickcontrols
 qt5-quickcontrols2
 qt5-quicktimeline
 qt5-remoteobjects
@@ -157,6 +157,7 @@ qt6-datavis3d
 qt6-declarative
 qt6-doc
 qt6-examples
+qt6-httpserver
 qt6-imageformats
 qt6-languageserver
 qt6-lottie
@@ -164,6 +165,7 @@ qt6-multimedia
 qt6-networkauth
 qt6-positioning
 qt6-quick3d
+qt6-quick3dphysics
 qt6-quicktimeline
 qt6-remoteobjects
 qt6-scxml
@@ -171,6 +173,7 @@ qt6-sensors
 qt6-serialbus
 qt6-serialport
 qt6-shadertools
+qt6-speech
 qt6-tools
 qt6-virtualkeyboard
 qt6-wayland
@@ -185,8 +188,8 @@ sed
 sleuthkit
 smartmontools
 snapper
+squashfuse
 sudo
-sway
 swaybg
 swayidle
 swayimg
@@ -194,12 +197,11 @@ sxhkd
 texinfo
 thefuck
 tree
-unzip
 usbutils
 v4l2loopback-dkms
+v4l2loopback-utils
 vde2
 vi
-vim
 virt-manager
 virt-viewer
 virtualbox
@@ -207,7 +209,6 @@ vlc
 vsftpd
 waybar
 wf-recorder
-wget
 which
 wipe
 wireguard-tools
@@ -222,4 +223,3 @@ xorg-xhost
 xorg-xinit
 yarn
 zram-generator
-zsh
