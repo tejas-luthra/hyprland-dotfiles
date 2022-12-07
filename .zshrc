@@ -120,7 +120,6 @@ alias orphans='[[ -n $(pacman -Qdt) ]] && sudo pacman -Rs $(pacman -Qdtq) || ech
 alias aurorphans='[[ -n $(yay -Qdt) ]] && yay -Rs $(yay -Qdtq) || echo "no orphans to remove"'
 alias shutdown="shutdown now"
 alias ACC="nmcli device wifi connect \"ACC\" -a"
-alias Rishi="nmcli device wifi connect \"Rishi\" -a"
 alias ssh="kitty +kitten ssh"
 alias module="sudo modprobe v4l2loopback video_nr=2 card_label=\"OBS Virtual Camera"\"
 alias wsudo="bash /home/tejas/scripts/wsudo"
