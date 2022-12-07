@@ -21,6 +21,7 @@ chromium
 cmatrix
 cowsay
 cronie
+ctags
 cuda
 cups
 cups-pdf

@@ -5,11 +5,7 @@ cava
 dracula-gtk-theme
 dracula-icons-git
 etcher-cli-bin
-eww
-exodia-cursors
-exodia-eww
-exodia-extra-icons
-exodia-icons
+eww-wayland-git
 firefox-nightly-bin
 fp-stats-git
 github-desktop-bin
@@ -31,6 +27,7 @@ slack-desktop
 slippi-online-appimage
 spotify
 spotify-adblock-git
+sublime-text-4
 sway-launcher-desktop
 swaylock-effects-git
 swayshot
