@@ -123,7 +123,8 @@ alias ACC="nmcli device wifi connect \"ACC\" -a"
 alias ssh="kitty +kitten ssh"
 alias module="sudo modprobe v4l2loopback video_nr=2 card_label=\"OBS Virtual Camera"\"
 alias wsudo="bash /home/tejas/scripts/wsudo"
-alias maigret="python3 -m maigret" 
+alias maigret="python3 -m maigret"
+alias reboot="/home/$USER/.config/hypr/scripts/reboot.sh"
 eval $(thefuck --alias)
 #sudo flatpak override --filesystem=home com.discordapp.Discord
 #sudo flatpak override --filesystem=home com.webcordapp.Webcord

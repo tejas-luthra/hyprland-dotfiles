@@ -12,6 +12,8 @@ Leave all the files in /home/$USER/Github or else genlinks.sh will not work. If 
  - [Oh My Zsh!](#oh-my-zsh)
 
  - [Nvim Stuff](#nvim-stuff)
+
+ - [Visudo Stuff] (#visudo-stuff)
 ## Required Packages
 
 ```
@@ -64,4 +66,12 @@ Once COC is running with NodeJS, go into the COC directory(.config/nvim/plugged/
 yarn install
 
 yarn build
+```
+
+##Visudo Stuff
+
+Add this to the visudo file so that reboot.sh can run. 
+
+```
+%wheel ALL = NOPASSWD: /bin/kill
 ```
