@@ -13,7 +13,7 @@ Leave all the files in /home/$USER/Github or else genlinks.sh will not work. If 
 
  - [Nvim Stuff](#nvim-stuff)
 
- - [Visudo Stuff] (#visudo-stuff)
+ - [Visudo Stuff](#visudo-stuff)
 ## Required Packages
 
 ```
