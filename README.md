@@ -68,7 +68,7 @@ yarn install
 yarn build
 ```
 
-##Visudo Stuff
+## Visudo Stuff
 
 Add this to the visudo file so that reboot.sh can run. 
 
