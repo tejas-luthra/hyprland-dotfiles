@@ -15,6 +15,7 @@ base
 binutils
 bison
 blueberry
+blueman
 bluez
 bluez-utils
 chromium
@@ -122,6 +123,7 @@ pipewire-alsa
 pipewire-pulse
 pkgconf
 python-numpy
+python-ujson
 qbittorrent
 qemu-full
 qt5-3d
@@ -213,6 +215,7 @@ virtualbox
 vlc
 vsftpd
 waybar
+weston
 wf-recorder
 which
 wipe

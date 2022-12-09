@@ -125,6 +125,7 @@ alias module="sudo modprobe v4l2loopback video_nr=2 card_label=\"OBS Virtual Cam
 alias wsudo="bash /home/tejas/scripts/wsudo"
 alias maigret="python3 -m maigret"
 alias reboot="/home/$USER/.config/hypr/scripts/reboot.sh"
+alias format="sudo bash /home/tejas/delet/AutoFormat-Script-Windows/format.sh"
 eval $(thefuck --alias)
 #sudo flatpak override --filesystem=home com.discordapp.Discord
 #sudo flatpak override --filesystem=home com.webcordapp.Webcord

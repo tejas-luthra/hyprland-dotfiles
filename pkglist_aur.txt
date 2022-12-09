@@ -14,6 +14,7 @@ hyprland-git
 jellyfin-media-player
 jellyfin-web
 libimobiledevice-glue-git
+maltego
 mirage
 motrix-bin
 ncurses5-compat-libs
@@ -22,6 +23,7 @@ networkmanager-dmenu-bluetoothfix-git
 oh-my-zsh-git
 oh-my-zsh-plugin-syntax-highlighting
 packettracer
+python-plotly
 rofi-lbonn-wayland-git
 slack-desktop
 slippi-online-appimage
@@ -32,6 +34,7 @@ sway-launcher-desktop
 swaylock-effects-git
 swayshot
 systemd-numlockontty
+theharvester-git
 ttf-apple-emoji
 ttf-spacemono
 ttf-times-new-roman
