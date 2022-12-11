@@ -21,14 +21,14 @@ sudo pacman -S -< pkglist.txt
 yay -S -< pkglist_aur.txt
 ```
 
-Don't forget to install exodia-os eww, cursors, icons, rofi 
+Don't forget to install exodia-os cursors, icons 
 
-After installing exodia-eww, do these commands. 
+<!--After installing exodia-eww, do these commands. 
 
 ```
 sudo pacman -Rsn -dd eww
 yay -S eww-wayland-git
-```
+```--> 
 ## Default Apps
 
 I use kitty for my terminal, neovim as my editor, and firefox nightly as my browser.
