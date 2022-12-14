@@ -1,6 +1,7 @@
 aconfmgr-git
 batify
 brightnessctl-git
+burpsuite
 cava
 dracula-gtk-theme
 dracula-icons-git
@@ -18,7 +19,6 @@ maltego
 mirage
 motrix-bin
 ncurses5-compat-libs
-netflix-bin
 networkmanager-dmenu-bluetoothfix-git
 oh-my-zsh-git
 oh-my-zsh-plugin-syntax-highlighting
@@ -27,8 +27,6 @@ python-plotly
 rofi-lbonn-wayland-git
 slack-desktop
 slippi-online-appimage
-spotify
-spotify-adblock-git
 sublime-text-4
 sway-launcher-desktop
 swaylock-effects-git

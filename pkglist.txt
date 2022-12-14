@@ -66,7 +66,7 @@ gzip
 hashcat
 htop
 hydra
-iptables-nft
+iptables
 iw
 iwd
 java11-openjfx
@@ -197,6 +197,7 @@ smartmontools
 snapper
 squashfuse
 sudo
+swappy
 swaybg
 swayidle
 swayimg
@@ -231,4 +232,5 @@ xkeycaps
 xorg-xhost
 xorg-xinit
 yarn
+zip
 zram-generator
