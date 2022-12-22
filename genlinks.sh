@@ -16,7 +16,7 @@ ln -sf /home/$USER/Github/hyprland-dotfiles/config/rofi /home/$USER/.config/.
 ln -sf /home/$USER/Github/hyprland-dotfiles/config/scripts /home/$USER/.config/.
 ln -sf /home/$USER/Github/hyprland-dotfiles/config/thefuck /home/$USER/.config/.
 ln -sf /home/$USER/Github/hyprland-dotfiles/config/kitty /home/$USER/.config/. 
-
+ln -sf /home/$USER/Github/hyprland-dotfiles/.icons /home/$USER/.
 #links pictures and other stuff
 ln -sf /home/$USER/Github/hyprland-dotfiles/Pictures /home/$USER/.
 ln -sf /home/$USER/Github/hyprland-dotfiles/pkglist_aur.txt /home/$USER/.

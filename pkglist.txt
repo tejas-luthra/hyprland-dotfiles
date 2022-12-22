@@ -33,6 +33,7 @@ dnsmasq
 docker
 dosfstools
 dunst
+dvd+rw-tools
 efibootmgr
 exfat-utils
 fakeroot
@@ -66,7 +67,6 @@ gzip
 hashcat
 htop
 hydra
-iptables
 iw
 iwd
 java11-openjfx
@@ -113,8 +113,8 @@ openbsd-netcat
 opencl-mesa
 opengl-man-pages
 openshot
-openssl-1.0
 os-prober
+otf-font-awesome
 pacman
 papirus-icon-theme
 patch

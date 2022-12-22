@@ -74,11 +74,12 @@ export OPENCV_VIDEOIO_PRIORITY_INTEL_MFX=0
 # Custom plugins may be added to $ZSH_CUSTOM/plugins/
 # Example format: plugins=(rails git textmate ruby lighthouse)
 # Add wisely, as too many plugins slow down shell startup.
-plugins=(git sudo zsh-autosuggestions)
+#plugins=(git sudo zsh-autosuggestions)
 
 source $ZSH/oh-my-zsh.sh
 
-
+source ${ZDOTDIR:-~}/.antidote/antidote.zsh
+antidote load
 # User configuration
 
 # export MANPATH="/usr/local/man:$MANPATH"
@@ -118,14 +119,15 @@ alias ll="ls -al"
 alias STEMGuest="nmcli device wifi connect \"STEMGuest\" -a"
 alias orphans='[[ -n $(pacman -Qdt) ]] && sudo pacman -Rs $(pacman -Qdtq) || echo "no orphans to remove"'
 alias aurorphans='[[ -n $(yay -Qdt) ]] && yay -Rs $(yay -Qdtq) || echo "no orphans to remove"'
-alias shutdown="shutdown now"
 alias ACC="nmcli device wifi connect \"ACC\" -a"
 alias ssh="kitty +kitten ssh"
 alias module="sudo modprobe v4l2loopback video_nr=2 card_label=\"OBS Virtual Camera"\"
-alias wsudo="bash /home/tejas/scripts/wsudo"
+alias wsudo="sh /home/$USER/.config/hypr/scripts/wsudo.sh"
 alias maigret="python3 -m maigret"
-alias reboot="/home/$USER/.config/hypr/scripts/reboot.sh"
+alias reboot="sh /home/$USER/.config/hypr/scripts/reboot.sh"
+alias shutdown="sh /home/$USER/.config/hypr/scripts/shutdown.sh"
 alias format="sudo bash /home/tejas/delet/AutoFormat-Script-Windows/format.sh"
+alias nowifi="nmcli r wifi on"
 eval $(thefuck --alias)
 #sudo flatpak override --filesystem=home com.discordapp.Discord
 #sudo flatpak override --filesystem=home com.webcordapp.Webcord
