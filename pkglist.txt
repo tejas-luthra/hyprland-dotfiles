@@ -12,6 +12,7 @@ autoconf
 automake
 awesome
 base
+bettercap
 binutils
 bison
 blueberry
@@ -20,7 +21,6 @@ bluez
 bluez-utils
 chromium
 cmatrix
-cowsay
 cronie
 ctags
 cuda
@@ -35,7 +35,7 @@ dosfstools
 dunst
 dvd+rw-tools
 efibootmgr
-exfat-utils
+ettercap-gtk
 fakeroot
 feh
 file
@@ -73,14 +73,16 @@ java11-openjfx
 john
 kitty
 kmix
+libcurl-compat
+libguestfs
 libqtxdg
 libreoffice-fresh
 libtool
+libzip
 light
 linux
 linux-firmware
 linux-headers
-lolcat
 lxsession-gtk3
 m4
 make
@@ -100,6 +102,7 @@ net-tools
 netctl
 network-manager-applet
 networkmanager
+nikto
 nmap
 nodejs
 numlockx
@@ -214,7 +217,6 @@ virt-manager
 virt-viewer
 virtualbox
 vlc
-vsftpd
 waybar
 weston
 wf-recorder
@@ -225,7 +227,7 @@ wireless_tools
 wireplumber
 wireshark-cli
 wireshark-qt
-xdg-desktop-portal-wlr
+wpscan
 xf86-video-amdgpu
 xfce4-settings
 xkeycaps
