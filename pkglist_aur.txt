@@ -2,7 +2,6 @@ aconfmgr-git
 batify
 batsignal
 brightnessctl-git
-burpsuite
 cava
 dracula-gtk-theme
 dracula-icons-git
@@ -15,17 +14,12 @@ hyprland-git
 jellyfin-media-player
 jellyfin-web
 libimobiledevice-glue-git
-maltego
 mirage
 motrix-bin
-ncurses5-compat-libs
-netdiscover
 netflix
 networkmanager-dmenu-bluetoothfix-git
-nuclei
 oh-my-zsh-git
 oh-my-zsh-plugin-syntax-highlighting
-openssl-1.0
 qt-virt-manager
 rockyou
 rofi-lbonn-wayland-git
@@ -44,7 +38,6 @@ ttf-spacemono
 ttf-times-new-roman
 uml_utilities
 vim-plug
-vmware-unlocker-bin
 vmware-workstation
 volnoti
 vscodium-bin
@@ -53,6 +46,4 @@ vscodium-bin-marketplace
 woeusb-ng
 wordlists
 xdg-desktop-portal-hyprland-git
-yay
-zoom
 zsh-antidote

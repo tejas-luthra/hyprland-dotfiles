@@ -125,7 +125,7 @@ alias wsudo="sh /home/$USER/.config/hypr/scripts/wsudo.sh"
 alias maigret="python3 -m maigret"
 alias reboot="sh /home/$USER/.config/hypr/scripts/reboot.sh"
 alias shutdown="sh /home/$USER/.config/hypr/scripts/shutdown.sh"
-alias format="sudo bash /home/tejas/delet/AutoFormat-Script-Windows/format.sh"
+alias format="sudo bash /home/tejas/scripts/AutoFormat-Script-Windows/format.sh"
 alias nowifi="nmcli r wifi on"
 eval $(thefuck --alias)
 #sudo flatpak override --filesystem=home com.discordapp.Discord
