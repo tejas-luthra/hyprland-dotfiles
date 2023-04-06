@@ -16,13 +16,14 @@ blueberry
 blueman
 bluez
 bluez-utils
-chromium
+btrfs-progs
 cmatrix
 cronie
 ctags
 cuda
 cups
 cups-pdf
+dconf-editor
 dialog
 discord
 dnsmasq
@@ -43,9 +44,12 @@ gcc-d
 gifsicle
 gimp
 git
+gnome-shell
 gnome-tweaks
+go
 gparted
 grub
+gst-plugin-pipewire
 gtk-engines
 gtk-layer-shell
 gtk4
@@ -53,6 +57,7 @@ gtkmm
 hashcat
 htop
 hydra
+hyprland
 iw
 iwd
 java11-openjfx
@@ -62,6 +67,7 @@ kmix
 kolourpaint
 libcurl-compat
 libguestfs
+libpulse
 libqtxdg
 libreoffice-fresh
 libzip
@@ -69,6 +75,7 @@ light
 linux
 linux-firmware
 linux-headers
+lxappearance
 lxsession-gtk3
 man-db
 man-pages
@@ -101,11 +108,14 @@ openbsd-netcat
 opencl-mesa
 opengl-man-pages
 openshot
+openssl
 os-prober
 otf-font-awesome
 papirus-icon-theme
 pavucontrol
+pipewire
 pipewire-alsa
+pipewire-jack
 pipewire-pulse
 python-numpy
 python-ujson
@@ -180,7 +190,6 @@ sleuthkit
 smartmontools
 snapper
 squashfuse
-sudo
 swappy
 swaybg
 swayidle
@@ -188,6 +197,7 @@ swayimg
 sxhkd
 thefuck
 tree
+udiskie
 usbutils
 v4l2loopback-dkms
 v4l2loopback-utils
@@ -212,6 +222,8 @@ xfce4-settings
 xkeycaps
 xorg-xhost
 xorg-xinit
+xsettings-client
+xsettingsd
 xterm
 yarn
 zip

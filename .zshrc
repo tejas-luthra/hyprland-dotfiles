@@ -82,8 +82,9 @@ export OPENCV_VIDEOIO_PRIORITY_INTEL_MFX=0
 
 source $ZSH/oh-my-zsh.sh
 
-source ${ZDOTDIR:-~}/.antidote/antidote.zsh
-antidote load
+#source ${ZDOTDIR:-~}/.antidote/antidote.zsh
+
+#antidote load
 # User configuration
 
 # export MANPATH="/usr/local/man:$MANPATH"
