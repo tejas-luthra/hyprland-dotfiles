@@ -1,5 +1,6 @@
 acpi
 acpi_call-dkms
+aircrack-ng
 alsa-utils
 amd-ucode
 arandr
@@ -12,11 +13,12 @@ base
 base-devel
 bettercap
 bind
-blueberry
 blueman
 bluez
 bluez-utils
 btrfs-progs
+chromium
+cliphist
 cmatrix
 cronie
 ctags
@@ -44,8 +46,6 @@ gcc-d
 gifsicle
 gimp
 git
-gnome-shell
-gnome-tweaks
 go
 gparted
 grub
@@ -196,6 +196,7 @@ swayidle
 swayimg
 sxhkd
 thefuck
+thunderbird
 tree
 udiskie
 usbutils
@@ -218,7 +219,6 @@ wireshark-cli
 wireshark-qt
 wpscan
 xf86-video-amdgpu
-xfce4-settings
 xkeycaps
 xorg-xhost
 xorg-xinit

@@ -2,7 +2,6 @@ aconfmgr-git
 brightnessctl-git
 btrfs-assistant
 cava
-cliphist
 dracula-gtk-theme
 dracula-icons-git
 etcher-cli-bin
@@ -10,6 +9,7 @@ flashprint
 github-desktop-bin
 grimshot
 gtk3-classic
+handshake-cracker
 hyprpicker-git
 mirage
 motrix-bin
