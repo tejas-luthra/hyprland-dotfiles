@@ -49,11 +49,6 @@ git
 go
 gparted
 grub
-gst-plugin-pipewire
-gtk-engines
-gtk-layer-shell
-gtk4
-gtkmm
 hashcat
 htop
 hydra
@@ -108,7 +103,6 @@ openbsd-netcat
 opencl-mesa
 opengl-man-pages
 openshot
-openssl
 os-prober
 otf-font-awesome
 papirus-icon-theme
@@ -188,7 +182,6 @@ refind
 sddm
 sleuthkit
 smartmontools
-snapper
 squashfuse
 swappy
 swaybg
@@ -208,10 +201,8 @@ virt-manager
 virt-viewer
 virtualbox
 vlc
-waybar
 weston
 wf-recorder
-wipe
 wireguard-tools
 wireless_tools
 wireplumber

@@ -21,3 +21,6 @@ ln -sf /home/$USER/Github/hyprland-dotfiles/.icons /home/$USER/.
 ln -sf /home/$USER/Github/hyprland-dotfiles/Pictures /home/$USER/.
 ln -sf /home/$USER/Github/hyprland-dotfiles/pkglist_aur.txt /home/$USER/.
 ln -sf /home/$USER/Github/hyprland-dotfiles/pkglist.txt /home/$USER/.
+
+#echos to link firefox thing
+echo "LINK THE CHROME FOLDER TO FIREFOX CSS AFTER FOLLOWING THIS https://github.com/ranmaru22/firefox-vertical-tabs"
