@@ -21,7 +21,7 @@ sudo pacman -S -< pkglist.txt
 yay -S -< pkglist_aur.txt
 ```
 
-Don't forget to install exodia-os cursors, icons 
+Don't forget to install exodia-os cursors, icons, and make sure to config Firefox.
 
 <!--After installing exodia-eww, do these commands. 
 
