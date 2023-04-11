@@ -1,5 +1,5 @@
 swaylock \
-	--image ~/Pictures/Totem.png \
+	--image ~/Pictures/wallpaper.jpg \
 	--indicator-radius 45 \
 	--indicator-idle-visible \
 	--indicator-thickness 8 \

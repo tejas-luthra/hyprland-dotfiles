@@ -1,2 +1,2 @@
 #!/bin/bash
-swaybg -i ~/Pictures/Totem.png
+swaybg -i ~/Pictures/wallpaper.jpg

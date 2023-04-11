@@ -31,6 +31,7 @@ discord
 dnsmasq
 docker
 dosfstools
+dracut
 dunst
 dvd+rw-tools
 efibootmgr
@@ -49,6 +50,8 @@ git
 go
 gparted
 grub
+gtk3
+gtk4
 hashcat
 htop
 hydra
@@ -67,6 +70,7 @@ libqtxdg
 libreoffice-fresh
 libzip
 light
+lightdm
 linux
 linux-firmware
 linux-headers
@@ -93,6 +97,7 @@ nmap
 nodejs
 noto-fonts-cjk
 numlockx
+nvidia
 nvidia-prime
 obs-studio
 obsidian
@@ -182,6 +187,7 @@ refind
 sddm
 sleuthkit
 smartmontools
+snapper
 squashfuse
 swappy
 swaybg
@@ -192,6 +198,7 @@ thefuck
 thunderbird
 tree
 udiskie
+usbmuxd
 usbutils
 v4l2loopback-dkms
 v4l2loopback-utils
@@ -199,8 +206,8 @@ vde2
 vi
 virt-manager
 virt-viewer
-virtualbox
 vlc
+waybar
 weston
 wf-recorder
 wireguard-tools
@@ -215,7 +222,6 @@ xorg-xhost
 xorg-xinit
 xsettings-client
 xsettingsd
-xterm
 yarn
 zip
 zram-generator
