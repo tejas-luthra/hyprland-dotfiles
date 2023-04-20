@@ -14,6 +14,9 @@ Leave all the files in /home/$USER/Github or else genlinks.sh will not work. If 
  - [Nvim Stuff](#nvim-stuff)
 
  - [Visudo Stuff](#visudo-stuff)
+
+ - [Other Stuff](#other-stuff)
+
 ## Required Packages
 
 ```
@@ -74,4 +77,19 @@ Add this to the visudo file so that reboot.sh can run.
 
 ```
 %wheel ALL = NOPASSWD: /bin/kill
+```
+
+## Other Stuff
+
+These are the other repos that need to be set up for the install to function smoothly.
+
+
+This is for OSD. Thigs like volume control and so on. 
+```
+https://github.com/ErikReider/SwayOSD
+```
+
+This is for the firefox theme. 
+```
+https://github.com/ranmaru22/firefox-vertical-tabs
 ```
