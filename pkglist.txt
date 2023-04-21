@@ -7,6 +7,7 @@ arandr
 archiso
 aria2
 asar
+asciiquarium
 audacious
 awesome
 base
@@ -47,6 +48,7 @@ gcc-d
 gifsicle
 gimp
 git
+gnome-tweaks
 go
 gparted
 grub
@@ -64,13 +66,11 @@ kitty
 kmix
 kolourpaint
 libcurl-compat
-libguestfs
 libpulse
 libqtxdg
 libreoffice-fresh
 libzip
 light
-lightdm
 linux
 linux-firmware
 linux-headers
@@ -108,6 +108,7 @@ openbsd-netcat
 opencl-mesa
 opengl-man-pages
 openshot
+openvpn
 os-prober
 otf-font-awesome
 papirus-icon-theme
@@ -117,6 +118,8 @@ pipewire-alsa
 pipewire-jack
 pipewire-pulse
 python-numpy
+python-pillow
+python-pip
 python-ujson
 qbittorrent
 qemu-full
@@ -188,6 +191,7 @@ sddm
 sleuthkit
 smartmontools
 snapper
+solaar
 squashfuse
 swappy
 swaybg
