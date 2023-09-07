@@ -1,6 +1,7 @@
 #!/bin/zsh
 stop=$(pidof sddm)
 echo $stop
-sudo /bin/kill -9 $stop
+/bin/kill -9 $stop >> /dev/null
+echo "Done" 
 reboot
 
