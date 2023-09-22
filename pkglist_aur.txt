@@ -1,9 +1,11 @@
 aconfmgr-git
+afdko
 batsignal
 btrfs-assistant
 cava
 dracula-grub-theme-git
 dracula-gtk-theme-git
+drawio-desktop-bin
 etcher-cli-bin
 exfat-utils-nofuse
 github-desktop-bin
@@ -18,7 +20,11 @@ mirage
 motrix-bin
 mullvad-vpn-bin
 nessus
+proton
+proton-ge-custom-bin
+protontricks-git
 radeon-profile-git
+recon-ng
 rockyou
 rofi-lbonn-wayland-git
 rpi-imager

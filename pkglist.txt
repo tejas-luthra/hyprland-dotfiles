@@ -176,6 +176,7 @@ smartmontools
 snapper
 solaar
 squashfuse
+steam
 swappy
 swaybg
 swayidle
