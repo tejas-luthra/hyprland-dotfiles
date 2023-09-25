@@ -37,6 +37,7 @@ swaylock-effects-git
 swayosd-git
 swayshot
 ttf-apple-emoji
+twingate
 upscayl-bin
 vim-plug
 vmware-workstation
