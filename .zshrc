@@ -126,10 +126,10 @@ alias aurorphans='[[ -n $(yay -Qdt) ]] && yay -Rs $(yay -Qdtq) || echo "no orpha
 alias ACC="nmcli device wifi connect \"ACC\" -a"
 alias ssh="kitty +kitten ssh"
 alias module="sudo modprobe v4l2loopback video_nr=2 card_label=\"OBS Virtual Camera"\"
-alias wsudo="sh /home/$USER/.config/hypr/scripts/wsudo.sh"
+alias wsudo="sh /home/$USER/.config/scripts/wsudo.sh"
 alias maigret="python3 -m maigret"
-alias reboot="sh /home/$USER/.config/hypr/scripts/reboot.sh"
-alias shutdown="sh /home/$USER/.config/hypr/scripts/shutdown.sh"
+alias reboot="sh /home/$USER/.config/scripts/reboot.sh"
+alias shutdown="sh /home/$USER/.config/scripts/shutdown.sh"
 alias format="sudo bash /home/tejas/Github/AutoFormat-Script-Windows/format.sh"
 alias nowifi="nmcli r wifi on"
 eval $(thefuck --alias)

@@ -1,0 +1,52 @@
+(defvar show_player false)
+
+(defwidget time []
+    (box
+        :class "text_widget"
+        time_poll
+    )
+)
+(defpoll time_poll :interval "1s" "echo $(~/.config/scripts/polls/timepoll.sh)")
+
+(defwidget date []
+    (box
+        :class "text_widget"
+        date_poll
+    )
+)
+(defpoll date_poll :interval "1s" "echo  $(date +'%h %d')")
+
+(defwidget network []
+    (box
+        :class "text_widget"
+        network_poll
+    )
+)
+(defpoll network_poll :interval "1s" "echo 󰓤 $(nmcli -t -f NAME con show --active | head -n 1)")
+
+(defwidget player []
+    (box
+        :visible show_player
+        :class "text_widget"
+        player_poll
+    )
+)
+(defpoll player_poll :interval ".2s" "echo $(~/.config/scripts/polls/audiopoll.sh)")
+
+(defwidget volume []
+    (box
+        :class "text_widget"
+        volume_poll
+    )
+)
+(defpoll volume_poll :interval ".2s" "echo $(~/.config/scripts/polls/volumepoll.sh)")
+
+(defwidget battery []
+    (box
+        :class "text_widget"
+        battery_poll
+    )
+)
+
+(defpoll battery_poll :interval "1s" "echo $(~/.config/scripts/polls/batterypoll.sh)")
+(defwindow bar0 :geometry (geometry :x "10" :y "10" :height "42px" :width "100%" :anchor "top center" ) :monitor 0 :exclusive "true" :wm-ignore "false" :windowtype "dock" :stacking "fg" (centerbox :orientation "h" :class "bar" :space-evenly false :spacing 10 (box :class "left" :halign "start" :spacing 10 :space-evenly false (network) (volume) ) (box :class "center" :halign "center" :spacing 10 :space-evenly false (player) ) (box :class "right" :halign "end" :spacing 10 :space-evenly false (battery) (date) (time) ) ) )

@@ -17,7 +17,8 @@ ln -sf /home/$USER/Github/hyprland-dotfiles/config/scripts /home/$USER/.config/.
 ln -sf /home/$USER/Github/hyprland-dotfiles/config/thefuck /home/$USER/.config/.
 ln -sf /home/$USER/Github/hyprland-dotfiles/config/kitty /home/$USER/.config/. 
 ln -sf /home/$USER/Github/hyprland-dotfiles/.icons /home/$USER/.
-ln -sf /home/tejas/Github/hyprland-dotfiles/config/swappy /home/$USER/.config/.
+ln -sf /home/$USER/Github/hyprland-dotfiles/config/swappy /home/$USER/.config/.
+ln -sf /home/$USER/Github/hyprland-dotfiles/config/eww /home/$USER/.config/.
 
 #links pictures and other stuff
 ln -sf /home/$USER/Github/hyprland-dotfiles/Pictures /home/$USER/.
