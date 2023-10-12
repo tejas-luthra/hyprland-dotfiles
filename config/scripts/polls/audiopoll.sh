@@ -1,4 +1,4 @@
-playerinput=$(playerctl metadata --format '{{xesam:artist}} // {{xesam:title}}')
+playerinput=$(playerctl metadata --format '{{xesam:title}} // {{xesam:artist}}')
 
 info=$(~/.config/scripts/stringshorten.sh "$playerinput" 70)
 

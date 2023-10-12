@@ -110,29 +110,24 @@ export LANG=en_US.UTF-8
 # Example aliases
 # alias zshconfig="mate ~/.zshrc"
 # alias ohmyzsh="mate ~/.oh-my-zsh"
-alias update="sudo pacman -Syu"
-alias aurupdate="yay -Syu"
-alias bright="brightnessctl set 255"
-alias battery="acpi"
 alias backup="pacman -Qqen > pkglist.txt"
 alias backupaur="pacman -Qqem > pkglist_aur.txt"
 alias time="timedatectl"
 alias hyprconfig="nvim .config/hypr/hyprland.conf"
-alias task="htop"
 alias ll="ls -al"
-alias STEMGuest="nmcli device wifi connect \"STEMGuest\" -a"
 alias orphans='[[ -n $(pacman -Qdt) ]] && sudo pacman -Rs $(pacman -Qdtq) || echo "no orphans to remove"'
 alias aurorphans='[[ -n $(yay -Qdt) ]] && yay -Rs $(yay -Qdtq) || echo "no orphans to remove"'
-alias ACC="nmcli device wifi connect \"ACC\" -a"
 alias ssh="kitty +kitten ssh"
 alias module="sudo modprobe v4l2loopback video_nr=2 card_label=\"OBS Virtual Camera"\"
 alias wsudo="sh /home/$USER/.config/scripts/wsudo.sh"
 alias maigret="python3 -m maigret"
 alias reboot="sh /home/$USER/.config/scripts/reboot.sh"
 alias shutdown="sh /home/$USER/.config/scripts/shutdown.sh"
-alias format="sudo bash /home/tejas/Github/AutoFormat-Script-Windows/format.sh"
+alias format="sudo bash /home/$USER/Github/AutoFormat-Script-Windows/format.sh"
 alias nowifi="nmcli r wifi on"
+alias stable-diffusion="stable-diffusion-ui-server"
 eval $(thefuck --alias)
+alias df='df -h'
 #sudo flatpak override --filesystem=home com.discordapp.Discord
 #sudo flatpak override --filesystem=home com.webcordapp.Webcord
 

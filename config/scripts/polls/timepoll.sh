@@ -2,6 +2,7 @@
 
 hour=$(date '+%H')
 minute=$(date '+%M')
+second=$(date '+%S')
 clock=""
 
 if (( $minute > 30 )); then
@@ -43,4 +44,4 @@ else
 	clock="NO"
 fi
 
-echo "$clock $hour:$minute"
+echo "$clock $hour:$minute:$second"
