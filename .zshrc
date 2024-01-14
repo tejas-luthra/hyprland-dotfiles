@@ -126,6 +126,7 @@ alias shutdown="sh /home/$USER/.config/scripts/shutdown.sh"
 alias format="sudo bash /home/$USER/Github/AutoFormat-Script-Windows/format.sh"
 alias nowifi="nmcli r wifi on"
 alias stable-diffusion="stable-diffusion-ui-server"
+alias burpsuite="java --illegal-access=permit -Dfile.encoding=utf-8 -javaagent:\"/home/tejas/Github/BurpSuitePro/loader.jar\" -noverify -jar \"/home/tejas/Github/BurpSuitePro/burpsuite_pro.jar\""
 eval $(thefuck --alias)
 alias df='df -h'
 #sudo flatpak override --filesystem=home com.discordapp.Discord
