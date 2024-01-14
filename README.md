@@ -34,7 +34,7 @@ yay -S eww-wayland-git
 ```--> 
 ## Default Apps
 
-I use kitty for my terminal, neovim as my editor, and firefox nightly as my browser.
+I use kitty for my terminal, neovim as my editor, and firefox as my browser.
 
 
 ## Oh My Zsh
